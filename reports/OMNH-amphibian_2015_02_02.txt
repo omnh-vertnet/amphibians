@@ -1,0 +1,101 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 159
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: India ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-07 ; Times: 2
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-18 ; Times: 2
+	Date: 2015-01-24 ; Times: 2
+	Date: 2015-01-25 ; Times: 1
+	Date: 2015-01-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ambystoma south dakota AND (NOT North)" ; Times: 1
+	Query: "Rhinophrynus dorsalis united states" ; Times: 1
+	Query: "Hyla arborea" ; Times: 2
+	Query: "ambystoma south dakota" ; Times: 1
+	Query: "county:"cleveland" stateprovince:"oklahoma" (tigrinum)" ; Times: 1
+	Query: "hypopachus variolosus stateprovince:"texas"" ; Times: 1
+	Query: "Ceratophrys cranwelli" ; Times: 1
+	Query: "allobates" ; Times: 1
+	Query: "Bufo Exsul" ; Times: 1
+	Query: "Elachistocleis bicolor" ; Times: 1
+	Query: "Dendrophryniscus minutus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 445 download events in this period)
+Total number of records downloaded: 8465 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 6301
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-09 ; Times: 1
+	Date: 2015-01-10 ; Times: 2
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-13 ; Times: 3
+	Date: 2015-01-15 ; Times: 3
+	Date: 2015-01-24 ; Times: 3
+	Date: 2015-01-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Allobates femoralis" ; Times: 1
+	Query: "adenomera andreae" ; Times: 1
+	Query: "Salamandra" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "allobates femoralis" ; Times: 1
+	Query: "bufo canorus" ; Times: 1
+	Query: "distance(location,geopoint(36.12012758978149,-109.57763671875))<88224" ; Times: 1
+	Query: "jalpa zacatecas" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "woodhousii" ; Times: 1
+	Query: "Cynops cyanurus" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "Dendrophryniscus minutus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 41
+Total number of records retrieved from searches: 488
+Number of download events that retrieved data from the resource: 16
+Total number of records downloaded: 8465
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 53
+Total number of records retrieved from searches: 647
+Number of download events that retrieved data from the resource: 81
+Total number of records downloaded: 54439
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
