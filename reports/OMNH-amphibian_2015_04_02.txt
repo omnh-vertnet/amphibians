@@ -1,0 +1,129 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 893
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 4
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 6
+	Date: 2015-03-07 ; Times: 3
+	Date: 2015-03-08 ; Times: 2
+	Date: 2015-03-09 ; Times: 3
+	Date: 2015-03-10 ; Times: 5
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-15 ; Times: 7
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-23 ; Times: 3
+	Date: 2015-03-29 ; Times: 3
+	Date: 2015-03-30 ; Times: 1
+	Date: 2015-03-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudacris streckeri oklahoma" ; Times: 1
+	Query: "opacum mccurtain county" ; Times: 1
+	Query: "Oklahoma areolata" ; Times: 2
+	Query: "Aromobatidae" ; Times: 1
+	Query: "pseudacris streckeri oklahoma canadian" ; Times: 1
+	Query: "amphibia county:"cleveland" stateprovince:"oklahoma"" ; Times: 1
+	Query: "cinerea mccurtain county" ; Times: 1
+	Query: "oklahoma turner falls" ; Times: 1
+	Query: "oklahoma chickasaw" ; Times: 2
+	Query: "hemidactylium scutatum oklahoma" ; Times: 1
+	Query: "ambystoma rosaceum" ; Times: 1
+	Query: "miriamae" ; Times: 1
+	Query: "siren stateprovince:"oklahoma"" ; Times: 1
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "augusti texas" ; Times: 1
+	Query: "augusti stateprovince:"Texas"" ; Times: 1
+	Query: "oklahoma mcgee creek" ; Times: 1
+	Query: "Lithobates areolatus" ; Times: 1
+	Query: "amphiuma stateprovince:"oklahoma"" ; Times: 2
+	Query: "mountain beaver" ; Times: 1
+	Query: "phyzelaphryne miriamae" ; Times: 3
+	Query: "Peltocephalus AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Rana AND (NOT preservedspecimen)" ; Times: 1
+	Query: "oklahoma necturus" ; Times: 1
+	Query: "oklahoma cookson hills" ; Times: 1
+	Query: "oklahoma kaw" ; Times: 1
+	Query: "amphibia county:"cleveland"" ; Times: 1
+	Query: "bufo institutioncode:omnh" ; Times: 1
+	Query: "areolata stateprovince:"Louisiana"" ; Times: 3
+	Query: "Plethodon angusticlavius oklahoma cookson hills" ; Times: 1
+	Query: "OMNH 6690" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 298 download events in this period)
+Total number of records downloaded: 6434 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 6431
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-05 ; Times: 2
+	Date: 2015-03-07 ; Times: 1
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-14 ; Times: 1
+	Date: 2015-03-15 ; Times: 1
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-24 ; Times: 2
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "Lithobates areolatus" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Hylidae" ; Times: 1
+	Query: "eleutherodactylus ridens" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: ""Batrachoseps" AND (NOT attenuatus) mappable:1" ; Times: 1
+	Query: "Rana clamitans mappable:1" ; Times: 1
+	Query: "Leptodactylus savagei" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "alleganiensis mappable:1" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "Thorius narisovalis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 100
+Total number of records retrieved from searches: 1653
+Number of download events that retrieved data from the resource: 63
+Total number of records downloaded: 47011
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 112
+Total number of records retrieved from searches: 1812
+Number of download events that retrieved data from the resource: 128
+Total number of records downloaded: 92985
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
