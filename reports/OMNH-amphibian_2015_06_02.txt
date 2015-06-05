@@ -1,0 +1,150 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 173
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 36
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-07 ; Times: 6
+	Date: 2015-05-08 ; Times: 4
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-21 ; Times: 3
+	Date: 2015-05-22 ; Times: 8
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-25 ; Times: 4
+	Date: 2015-05-26 ; Times: 6
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-30 ; Times: 2
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eleutherodactylus cerasinus" ; Times: 1
+	Query: "11092" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "30758" ; Times: 1
+	Query: "rana pipiens wyoming" ; Times: 2
+	Query: ""hurterii" stateprovince:"Texas"" ; Times: 1
+	Query: "Eurycea longicauda and Ohio" ; Times: 1
+	Query: ""Phyllobates lugubris"" ; Times: 2
+	Query: "Lithobates sylvatica" ; Times: 4
+	Query: "11093" ; Times: 1
+	Query: "incilius alvarius" ; Times: 2
+	Query: "stateprovince:"Arkansas" specificepithet:scutatum genus:Hemidactylium" ; Times: 1
+	Query: "bufo alvarius" ; Times: 6
+	Query: ""Field Museum" reptiles" ; Times: 1
+	Query: "Leptodactylus stateprovince:"Texas"" ; Times: 4
+	Query: "gregg county texas" ; Times: 1
+	Query: "Ensatina type:observation mappable:1" ; Times: 1
+	Query: "sylvia brazil" ; Times: 1
+	Query: "rana pipiens park county wyoming" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 2
+	Query: "eleutherodactylus stateprovince:"texas"" ; Times: 3
+	Query: "bocagei" ; Times: 1
+	Query: "Phyllomedusa lemur" ; Times: 2
+	Query: "stateprovince:"Pennsylvania" genus:Cryptobranchus" ; Times: 1
+	Query: "bufo boreas distance(location,geopoint(43.93165932468228,-111.6914051771164))<100000" ; Times: 1
+	Query: "KUNHM 22581" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 976 download events in this period)
+Total number of records downloaded: 5680 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5493
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 38
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-07 ; Times: 9
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 11
+	Date: 2015-05-22 ; Times: 1
+	Date: 2015-05-24 ; Times: 2
+	Date: 2015-05-25 ; Times: 7
+	Date: 2015-05-26 ; Times: 3
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-29 ; Times: 2
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla eximia" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "Plethodon fourchensis" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: ""hyla eximia" mappable:1" ; Times: 1
+	Query: "bufo terrestris" ; Times: 1
+	Query: "american black bear" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "ambystoma gracile stateprovince:"washington"" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "incilius alvarius" ; Times: 1
+	Query: "lithobates yavapaiensis" ; Times: 1
+	Query: "rana sphenocephala" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "anaxyrus cognatus" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "bufo alvarius" ; Times: 2
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "ambystoma mavortium" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "lithobates sphenocephalus" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "Desmognathus stateprovince:"Mississippi"" ; Times: 1
+	Query: "Pseudacris regilla mappable:1" ; Times: 1
+	Query: "rana yavapaiensis" ; Times: 1
+	Query: "Ensatina mappable:1" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Hyla arenicolor mappable:1" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 144
+Total number of records retrieved from searches: 1826
+Number of download events that retrieved data from the resource: 105
+Total number of records downloaded: 52691
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 156
+Total number of records retrieved from searches: 1985
+Number of download events that retrieved data from the resource: 170
+Total number of records downloaded: 98665
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
