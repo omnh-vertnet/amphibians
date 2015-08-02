@@ -1,0 +1,121 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 651
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 3
+	Date: 2015-07-02 ; Times: 4
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-04 ; Times: 2
+	Date: 2015-07-06 ; Times: 5
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 4
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-25 ; Times: 1
+	Date: 2015-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"inyo" specificepithet:canorus genus:Bufo" ; Times: 1
+	Query: "bufo speciosus" ; Times: 1
+	Query: "Theloderma corticale" ; Times: 1
+	Query: "42291" ; Times: 1
+	Query: "MCZ-39130" ; Times: 1
+	Query: ""OMNH Amphibians" institutioncode:omnh" ; Times: 2
+	Query: "specificepithet:femoralis genus:Allobates" ; Times: 1
+	Query: "omnh acris" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:riveroi genus:Hyla" ; Times: 1
+	Query: "Bufo stateprovince:"Veracruz"" ; Times: 4
+	Query: "Anaxyrus woodhousii OMNH" ; Times: 1
+	Query: "stateprovince:"mexico" AND (not bufo)" ; Times: 3
+	Query: "ambystoma south dakota" ; Times: 1
+	Query: "33940" ; Times: 1
+	Query: "omnh 10000" ; Times: 2
+	Query: "33625" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "genus:Allobates" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "Anaxyrus debilis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1084 download events in this period)
+Total number of records downloaded: 7081 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4071
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 5
+	Country: Puerto Rico ; Times: 1
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-02 ; Times: 4
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-09 ; Times: 1
+	Date: 2015-07-13 ; Times: 2
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-28 ; Times: 4
+	Date: 2015-07-29 ; Times: 3
+	Date: 2015-07-30 ; Times: 2
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon serratus" ; Times: 1
+	Query: "Hyla eximia" ; Times: 1
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "ambystoma south dakota" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "bufo valliceps" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "bufo nebulifer" ; Times: 1
+	Query: "anaxyrus type:specimen mappable:1" ; Times: 1
+	Query: "plethodon kentucki" ; Times: 2
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "anaxyrus type:specimen" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "hemidactylium" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "stateprovince:"mexico" AND (not bufo)" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 261
+Total number of records retrieved from searches: 3191
+Number of download events that retrieved data from the resource: 172
+Total number of records downloaded: 65848
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 273
+Total number of records retrieved from searches: 3350
+Number of download events that retrieved data from the resource: 237
+Total number of records downloaded: 111822
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
