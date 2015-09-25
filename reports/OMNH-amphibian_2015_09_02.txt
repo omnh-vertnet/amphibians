@@ -1,0 +1,127 @@
+Report for Institution Code OMNH, Resource Amphibians
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 343
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-07 ; Times: 2
+	Date: 2015-08-08 ; Times: 2
+	Date: 2015-08-10 ; Times: 1
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 1
+	Date: 2015-08-26 ; Times: 6
+	Date: 2015-08-27 ; Times: 8
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 1
+	Date: 2015-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Amazophrynella" ; Times: 1
+	Query: "Plethodon kiamichi" ; Times: 2
+	Query: "dendropsophus leucophyllatus" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "Plethodon richmondi stateprovince:"Kentucky" country:"United States"" ; Times: 1
+	Query: "stateprovince:"colorado" genus:ambystoma" ; Times: 2
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma" ; Times: 1
+	Query: "Anodonthyla" ; Times: 1
+	Query: "Aromobatidae" ; Times: 1
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "27167" ; Times: 1
+	Query: "craugastor augusti" ; Times: 1
+	Query: "omnh 289" ; Times: 5
+	Query: "specificepithet:ouachitae genus:Plethodon" ; Times: 2
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 1
+	Query: "specificepithet:sequoyah genus:Plethodon" ; Times: 1
+	Query: "Plethodon ouachitae stateprovince:"Arkansas" country:"United States"" ; Times: 1
+	Query: "34677" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1138 download events in this period)
+Total number of records downloaded: 12152 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4595
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 17
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-03 ; Times: 4
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-16 ; Times: 2
+	Date: 2015-08-17 ; Times: 8
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 1
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 2
+	Date: 2015-08-30 ; Times: 1
+	Date: 2015-08-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Plethodon" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Aromobatidae" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "specificepithet:kentucki genus:plethodon" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "genus:Plethodon" ; Times: 2
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "bufo exsul" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+	Query: "Dendrobatidae" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Craugastoridae" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 26
+Total number of records retrieved from searches: 343
+Number of download events that retrieved data from the resource: 29
+Total number of records downloaded: 12152
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 26
+Total number of records retrieved from searches: 343
+Number of download events that retrieved data from the resource: 29
+Total number of records downloaded: 12152
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
