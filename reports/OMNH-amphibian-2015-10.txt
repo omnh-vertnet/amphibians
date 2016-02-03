@@ -1,0 +1,118 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 850
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 26
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 7
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-29 ; Times: 5
+	Date: 2015-10-30 ; Times: 6
+	Date: 2015-10-26 ; Times: 5
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "32700" ; Times: 1
+	Query: "hypsiboas cinerascens" ; Times: 2
+	Query: "Lithobates blairi type:specimen tissue:1" ; Times: 1
+	Query: "Atelopus hoogmoedi" ; Times: 1
+	Query: "pseudotriton montanus south carolina" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "lithobates catesbeianus tissue:1" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "21258" ; Times: 1
+	Query: "Pseudacris clarkii new mexico" ; Times: 1
+	Query: "University class:Amphibia country:&#34;Canada&#34; (nanaimo)" ; Times: 1
+	Query: "hypsiboas punctatus" ; Times: 1
+	Query: "gbifdatasetid:2e64dedd-0996-4cd6-b6cd-4f055a46c38c south dakota" ; Times: 1
+	Query: "aromobatidae" ; Times: 1
+	Query: "Anomaloglossus" ; Times: 1
+	Query: "Hypsiboas sibleszi" ; Times: 1
+	Query: "order:caudata county:&#34;liberty&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Plethodon kiamichi Plethodon kiamichi" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo country:MEXICO" ; Times: 1
+	Query: "acris (cleared)" ; Times: 2
+	Query: "rana blairi omnh" ; Times: 1
+	Query: "KU 31532" ; Times: 2
+	Query: "27542" ; Times: 1
+	Query: "OMNH 44276" ; Times: 1
+	Query: "hyla avivoca" ; Times: 1
+	Query: "Bufo microscaphus arizona" ; Times: 1
+	Query: "Gastrophryne olivacea OMNH" ; Times: 1
+	Query: "Hyla granosa" ; Times: 1
+	Query: "gbifdatasetid:2e64dedd-0996-4cd6-b6cd-4f055a46c38c" ; Times: 1
+	Query: "Plethodon kiamichi" ; Times: 2
+	Query: "augusti" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "Walnut Mountain Plethodon" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "university of british columbia class:Amphibia country:&#34;Canada&#34; (nanaimo)" ; Times: 1
+	Query: "Pipa arrabali" ; Times: 3
+	Query: "22250" ; Times: 1
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 823 download events in this period)
+Total number of records downloaded: 669
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "amphiuma means" ; Times: 1
+	Query: "phyllomedusa hypochondrialis" ; Times: 1
+	Query: "dendropsophus leucophyllatus" ; Times: 1
+	Query: "Lysapsus caraya" ; Times: 1
+	Query: "Walnut Mountain Plethodon" ; Times: 1
+	Query: "Lithobates blairi type:specimen tissue:1" ; Times: 2
+	Query: "Atelopus hoogmoedi" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "marmorata" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Lysapsus limellum" ; Times: 1
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 1
+	Query: "Lithobates sphenocephalus type:specimen tissue:1" ; Times: 1
+	Query: "county:&#34;Bandera&#34; mappable:1" ; Times: 1
+
+
+End of report.
