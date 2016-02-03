@@ -1,0 +1,135 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 424
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 30
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-16 ; Times: 7
+	Date: 2015-09-03 ; Times: 3
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-14 ; Times: 2
+	Date: 2015-09-23 ; Times: 3
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-04 ; Times: 3
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+	Date: 2015-09-21 ; Times: 3
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-30 ; Times: 5
+	Date: 2015-09-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Ranitomeya" ; Times: 1
+	Query: "Peltocephalus" ; Times: 1
+	Query: "order:caudata county:&#34;osage&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:americanus genus:Bufo" ; Times: 1
+	Query: "Adenomera bokermanni" ; Times: 2
+	Query: "Lysapsus limellum" ; Times: 2
+	Query: "ambystoma altamirani" ; Times: 1
+	Query: "Dendrobates Castaneoticus" ; Times: 3
+	Query: "stateprovince:&#34;Arizona&#34; (bufo punctatus)" ; Times: 3
+	Query: "dendropsophus leucophyllatus" ; Times: 2
+	Query: "eurycea rathbuni" ; Times: 1
+	Query: "Leslie Canyon Arizona" ; Times: 1
+	Query: "hypsiboas crepitans" ; Times: 2
+	Query: "Hyla albopunctata" ; Times: 2
+	Query: "omnh amphibians" ; Times: 1
+	Query: "eurycea tridentifera" ; Times: 3
+	Query: "stateprovince:&#34;Louisiana&#34; country:&#34;United States&#34; genus:anaxyrus mappable:1" ; Times: 1
+	Query: "Anaxyrus debilis" ; Times: 2
+	Query: "plethodon ouachitae" ; Times: 2
+	Query: "anaxyrus exsul" ; Times: 1
+	Query: "specificepithet:jeffersonianum genus:Ambystoma" ; Times: 1
+	Query: "eleutherodactylus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:woodhousii genus:Bufo" ; Times: 1
+	Query: "Physalaemus fischeri" ; Times: 1
+	Query: "plethodontid" ; Times: 1
+	Query: "27176" ; Times: 1
+	Query: "Bufo americanus stateprovince:&#34;Texas&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1045 download events in this period)
+Total number of records downloaded: 3272
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 34
+	Country: Venezuela ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-25 ; Times: 6
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-18 ; Times: 5
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-22 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Rana blairi" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 3
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Lithobates yavapaiensis" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:americanus genus:Bufo" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "Spea" ; Times: 2
+	Query: "Hyla crepitans" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Mannophryne" ; Times: 1
+	Query: "eurycea rathbuni" ; Times: 1
+	Query: "dendrobates auratus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Spea type:specimen" ; Times: 1
+	Query: "pseudacris maculata" ; Times: 1
+	Query: "Lithobates blairi" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 2
+	Query: "hyla chrysoscelis" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Scaphiopus" ; Times: 3
+	Query: "Manis tetradactyla" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:woodhousii genus:Bufo" ; Times: 1
+	Query: "Lithobates clamitans" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+
+
+End of report.
