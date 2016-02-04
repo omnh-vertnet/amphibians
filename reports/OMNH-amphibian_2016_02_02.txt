@@ -1,0 +1,128 @@
+Report for Institution Code OMNH, Resource Amphibians
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 557
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 4
+	Country: El Salvador ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 3
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-07 ; Times: 4
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-17 ; Times: 3
+	Date: 2016-01-19 ; Times: 3
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-22 ; Times: 6
+	Date: 2016-01-23 ; Times: 4
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "33490" ; Times: 1
+	Query: "herpetofauna" ; Times: 2
+	Query: "6977" ; Times: 1
+	Query: "class:amphibia stateprovince:"oklahoma" distance(location,geopoint(35.496456056584165,-97.5091552734375))<48186" ; Times: 2
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "ranitomeya ventrimaculata" ; Times: 2
+	Query: "42565" ; Times: 1
+	Query: "Dicamptodon ensatus stateprovince:"Oregon"" ; Times: 1
+	Query: "Plethodon kentucki" ; Times: 2
+	Query: "class:amphibia stateprovince:"oklahoma" distance(location,geopoint(35.496456056584165,-97.5091552734375))<21302" ; Times: 2
+	Query: "specificepithet:scutatus genus:Hemiphractus family:Hemiphractidae order:Anura class:Amphibia" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "Eleutherodactylus gryllus" ; Times: 1
+	Query: "Plethodontohyla" ; Times: 1
+	Query: "OMNH 27520" ; Times: 2
+	Query: "oophaga pumilio" ; Times: 1
+	Query: "septentrionalis oklahoma" ; Times: 1
+	Query: "21381" ; Times: 1
+	Query: "Lake Eucha" ; Times: 2
+	Query: "genus:Pseudacris specificepithet:streckeri" ; Times: 1
+	Query: "bufo boreas Colorado" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "MCZ R-9569" ; Times: 5
+	Query: "Plethodon angusticlavius" ; Times: 1
+	Query: "ambystoma texanum louisiana" ; Times: 1
+	Query: "anaxyrus canorus mappable:1" ; Times: 2
+	Query: "Mills P" ; Times: 1
+	Query: "Kickapoo Cavern class:Amphibia stateprovince:"Texas"" ; Times: 1
+	Query: "Anodonthyla" ; Times: 1
+	Query: "type:specimen genus:cryptobranchus stateprovince:"pennsylvania"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 507 download events in this period)
+Total number of records downloaded: 22830 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5798
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla eximia" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Craugastor rugulosus" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "genus:Ensatina class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "order:CAudata country:"United States"" ; Times: 4
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "Taricha stateprovince:"California"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 16
+Total number of records downloaded: 22830
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 42
+Total number of records retrieved from searches: 557
+Number of download events that retrieved data from the resource: 16
+Total number of records downloaded: 22830
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
