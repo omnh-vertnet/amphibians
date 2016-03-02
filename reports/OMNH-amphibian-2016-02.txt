@@ -1,0 +1,129 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 919
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 27
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-01 ; Times: 5
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-08 ; Times: 5
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 2
+	Date: 2016-02-19 ; Times: 3
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-24 ; Times: 4
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-16 ; Times: 3
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "bufo boreas stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "30149" ; Times: 1
+	Query: "ucm 11929" ; Times: 2
+	Query: "specificepithet:(multiplicata OR tynerensis) genus:Eurycea" ; Times: 1
+	Query: "nyctixalus" ; Times: 1
+	Query: "Eurycea tynerensis 1" ; Times: 1
+	Query: "Pseudacris ornata" ; Times: 1
+	Query: "Amphiuma tridactylum mappable:1" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:tridactylum" ; Times: 1
+	Query: "Rhinella festae" ; Times: 1
+	Query: "anaxyrus canorus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:OMNH:Amphibians:26837&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;Cherokee&#34; stateprovince:&#34;oklahoma&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "genus:Atelopus specificepithet:hoogmoedi" ; Times: 1
+	Query: "Pleurodema brachyops" ; Times: 1
+	Query: "Notophthalmus viridescens tennessee" ; Times: 2
+	Query: "genus:Telmatobius specificepithet:culeus" ; Times: 1
+	Query: "Jongsma country:&#34;Gabon&#34;" ; Times: 1
+	Query: "Gyrinophilus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "genus:Trachycephalus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Roraima&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "Phyllomedusa lemur" ; Times: 1
+	Query: "bufo boreas Colorado" ; Times: 1
+	Query: "Rhamphophryne" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "Ranitomeya ventrimaculata" ; Times: 1
+	Query: "Eurycea multiplicata 1" ; Times: 1
+	Query: "bufo boreas stateprovince:&#34;Colorado&#34; (Colorado)" ; Times: 2
+	Query: "bufo boreas (Colorado)" ; Times: 1
+	Query: "craugastor augusti" ; Times: 1
+	Query: "33755" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 512 download events in this period)
+Total number of records downloaded: 1193
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 15
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-26 ; Times: 4
+	Date: 2016-02-25 ; Times: 3
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Plethodon specificepithet:kentucki" ; Times: 1
+	Query: "dendropsophus sarayacuensis" ; Times: 1
+	Query: "genus:Scaphiopus specificepithet:holbrookii" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "Pseudacris ornata" ; Times: 1
+	Query: "Amphiuma tridactylum mappable:1" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "Pseudacris nigrita" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;alaska&#34; mappable:1" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Wyoming" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Washington" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "notophthalmus viridescens mappable:1" ; Times: 1
+	Query: "Pleurodema brachyops" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:California" ; Times: 3
+	Query: "class:amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+
+
+End of report.
