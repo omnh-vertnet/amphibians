@@ -1,0 +1,86 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 537
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 13
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 5
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-01 ; Times: 2
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 2
+	Date: 2016-03-10 ; Times: 2
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lithobates catesbeiana" ; Times: 1
+	Query: "Bolitoglossa mombachoensis mappable:1" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 2
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "anaxyrus canorus" ; Times: 2
+	Query: "genus:Incilius specificepithet:alvarius" ; Times: 1
+	Query: "&#34;Oak Mountain&#34; class:amphibia" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "stateprovince:&#34;Roraima&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Echinotriton andersoni" ; Times: 1
+	Query: "specificepithet:areolatus genus:Lithobates stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "29992" ; Times: 2
+	Query: "&#34;Anaxyrus microscaphus&#34; Arizona" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:clarkii" ; Times: 1
+	Query: "order:Caudata class:Amphibia recordedby:Crump" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 230 download events in this period)
+Total number of records downloaded: 28364
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 9
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "spea bombifrons" ; Times: 1
+	Query: "stateprovince:&#34;durango&#34; (amphibia)" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Cynops pyrrhogaster mappable:1" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "Amphiuma means mappable:1" ; Times: 1
+	Query: "&#34;Anaxyrus microscaphus&#34; Arizona" ; Times: 1
+	Query: "Ambystoma jeffersonianum mappable:1" ; Times: 1
+
+
+End of report.
