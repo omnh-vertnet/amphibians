@@ -1,0 +1,165 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 85
+Number of records retrieved in searches: 740
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 16
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 38
+	Country: Sri Lanka ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Colombia ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 6
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 5
+	Date: 2016-04-06 ; Times: 4
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-23 ; Times: 2
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-24 ; Times: 6
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-26 ; Times: 1
+	Date: 2016-04-27 ; Times: 10
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 2
+	Date: 2016-04-14 ; Times: 5
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 5
+	Date: 2016-04-11 ; Times: 5
+	Date: 2016-04-12 ; Times: 8
+	Date: 2016-04-13 ; Times: 6
+	Date: 2016-04-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "38875" ; Times: 2
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "specificepithet:cognatus genus:bufo stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:mystaceus" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 2
+	Query: "Ambystoma rosaceum" ; Times: 2
+	Query: "distance(location,geopoint(25.689036,-108.937516))&lt;15000" ; Times: 1
+	Query: "38774" ; Times: 1
+	Query: "Hyloxalus chlorocraspedus" ; Times: 3
+	Query: "distance(location,geopoint(32.149036,-111.997516))&lt;15000" ; Times: 2
+	Query: "specificepithet:beebei order:anura class:amphibia" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "Pseudotriton montanus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Allobates" ; Times: 1
+	Query: "11221" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-105.707516))&lt;15000" ; Times: 1
+	Query: "Cryptobranchus alleganiensis alleganiensis" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-112.337516))&lt;15000" ; Times: 2
+	Query: "38758" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-112.167516))&lt;15000" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "SAM 35651" ; Times: 1
+	Query: "necturus maculosus michigan" ; Times: 1
+	Query: "eurycea tridentifera" ; Times: 6
+	Query: "specificepithet:annulatum genus:ambystoma" ; Times: 2
+	Query: "20587" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:altamirani" ; Times: 1
+	Query: "Lithobates catesbeiana type:specimen" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.707516))&lt;15000" ; Times: 1
+	Query: "plethodon ouachita" ; Times: 3
+	Query: "family:Ranidae stateprovince:&#34;Zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "eurycea spelaea" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:tomopterna" ; Times: 1
+	Query: "Hyla arborea" ; Times: 2
+	Query: "Allobates talamancae" ; Times: 5
+	Query: "Lithobates catesbeianus tissue:1" ; Times: 1
+	Query: "genus:ceratophrys specificepithet:cranwelli" ; Times: 1
+	Query: "Lawton" ; Times: 1
+	Query: "Dundee Falls" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-112.847516))&lt;15000" ; Times: 1
+	Query: "specificepithet:multiplicata genus:eurycea year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "38882" ; Times: 1
+	Query: "cryptobranchus alleganiensis pennsylvania" ; Times: 1
+	Query: "Cryptophyllobates chlorocraspedus" ; Times: 1
+	Query: "genus:Anomaloglossus order:anura class:amphibia" ; Times: 1
+	Query: "Jongsma country:&#34;Gabon&#34;" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.487516))&lt;15000" ; Times: 1
+	Query: "KUNHM 17728" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.657516))&lt;15000" ; Times: 2
+	Query: "genus:Echinotriton specificepithet:andersoni" ; Times: 1
+	Query: "hoogmoed" ; Times: 1
+	Query: "trachycephalus typhonius" ; Times: 1
+	Query: "genus:Acris specificepithet:blanchardi" ; Times: 1
+	Query: "rana tarahumarae" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1312 download events in this period)
+Total number of records downloaded: 22814
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-06 ; Times: 4
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-23 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 4
+	Date: 2016-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:mystaceus" ; Times: 1
+	Query: "ptychadena mascareniensis" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Allobates talamancae" ; Times: 1
+	Query: "rana tarahumarae" ; Times: 2
+	Query: "barbouri" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "Craugastor fitzingeri" ; Times: 1
+	Query: "ptychadena perreti" ; Times: 1
+	Query: "thorius" ; Times: 1
+	Query: "Lithobates catesbeianus tissue:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Conraua specificepithet:crassipes" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "Lithobates catesbeiana type:specimen" ; Times: 1
+
+
+End of report.
