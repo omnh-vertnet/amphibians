@@ -1,0 +1,158 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 696
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Costa Rica ; Times: 2
+	Country: United States ; Times: 63
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 1
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-09 ; Times: 8
+	Date: 2016-06-22 ; Times: 5
+	Date: 2016-06-18 ; Times: 5
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-16 ; Times: 4
+	Date: 2016-06-17 ; Times: 2
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-06 ; Times: 10
+	Date: 2016-06-01 ; Times: 3
+	Date: 2016-06-13 ; Times: 8
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-02 ; Times: 10
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-19 ; Times: 4
+	Date: 2016-06-03 ; Times: 9
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:augusti stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1925 year &lt;= 1950" ; Times: 2
+	Query: "spea bombifrons year &gt;= 1930 year &lt;= 1940" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1936 year &lt;= 1945" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 2
+	Query: "county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "LSU 27287" ; Times: 1
+	Query: "bison bison   " ; Times: 3
+	Query: "Hypsiboas crepitans" ; Times: 2
+	Query: "7173" ; Times: 1
+	Query: "26378" ; Times: 1
+	Query: "Pseudacris feriarum maryland" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "class:Amphibia county:&#34;Gray&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "Spea bombifrons OR Scaphiopus bombifrons stateprovince:&#34;New Mexico&#34; year &gt;= 1925 year &lt;= 1935" ; Times: 1
+	Query: "Rana blairi stateprovince:&#34;New Mexico&#34; mappable:1" ; Times: 1
+	Query: "Paracatu" ; Times: 1
+	Query: "taricha granulosa distance(location,geopoint(37.941309644221015,-122.16796875))&lt;32648" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:tarsius" ; Times: 1
+	Query: "genus:Atelopus specificepithet:hoogmoedi" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Spea bombifrons stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "ambystoma stateprovince:&#34;mexico&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "allobates talamancae type:specimen year &gt;= 1875" ; Times: 1
+	Query: "amphibia county:&#34;Alpine&#34;" ; Times: 2
+	Query: "county:&#34;Garfield&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons stateprovince:&#34;New Mexico&#34; year &gt;= 1936 year &lt;= 1945" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "Jongsma" ; Times: 1
+	Query: "canorus county:&#34;mono&#34;" ; Times: 1
+	Query: "drew davis" ; Times: 4
+	Query: "34780" ; Times: 1
+	Query: "amphibia county:&#34;Mono&#34;" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "11899" ; Times: 3
+	Query: "8555" ; Times: 1
+	Query: "Spea bombifrons stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Jongsma institutioncode:OMNH" ; Times: 1
+	Query: "Hays county texas amphibians" ; Times: 1
+	Query: "Necturus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1946 year &lt;= 1955" ; Times: 1
+	Query: "class:Amphibia county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Peltocephalus" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "allobates talamancae" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "county:&#34;logan&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 4
+	Query: "27097" ; Times: 1
+	Query: "Chiromantis rufescens tissue:1" ; Times: 2
+	Query: "anaxyrus county:&#34;inyo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1925 year &lt;= 1935" ; Times: 1
+	Query: "Notophthalmus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "39534" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1052 download events in this period)
+Total number of records downloaded: 4895
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Colombia ; Times: 9
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 14
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-16 ; Times: 7
+	Date: 2016-06-17 ; Times: 2
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 5
+	Date: 2016-06-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:augusti stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 2001 year &lt;= 2016" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1936 year &lt;= 1945" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 2
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay NOT Catarina NOT paulo NOT minas)" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "Dendrobates auratus" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1925 year &lt;= 1935" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1951 year &lt;= 1975" ; Times: 1
+	Query: "Spea bombifrons stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons stateprovince:&#34;New Mexico&#34; year &gt;= 1925 year &lt;= 1935" ; Times: 1
+	Query: "Rana warszewitschii" ; Times: 2
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1925 year &lt;= 1950" ; Times: 1
+	Query: "pleurodema" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 2006 year &lt;= 2016" ; Times: 1
+	Query: "Hypsiboas punctatus" ; Times: 1
+	Query: "Spea type:specimen (hammondii OR intermontana OR hammondi OR multiplicata OR bombifrons) tissue:1" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons stateprovince:&#34;New Mexico&#34; year &gt;= 1936 year &lt;= 1945" ; Times: 1
+	Query: "Spea bombifrons stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Craugastor fitzingeri AND (NOT Brazil)" ; Times: 1
+	Query: "Spea bombifrons stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1956 year &lt;= 1965" ; Times: 1
+	Query: "Hays county texas amphibians" ; Times: 2
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1946 year &lt;= 1955" ; Times: 1
+	Query: "atelopus" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1996 year &lt;= 2005" ; Times: 1
+	Query: "Chiromantis rufescens tissue:1" ; Times: 1
+	Query: "Hypsiboas crepitans" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+
+
+End of report.
