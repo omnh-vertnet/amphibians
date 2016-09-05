@@ -1,0 +1,131 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 3075
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 46
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 5
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 18
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 3
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-18 ; Times: 12
+	Date: 2016-08-24 ; Times: 3
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-21 ; Times: 6
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-31 ; Times: 4
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Amphibia stateprovince:&#34;Louisiana&#34; institutioncode:OMNH" ; Times: 1
+	Query: "34126" ; Times: 1
+	Query: "Anaxyrus canorus" ; Times: 1
+	Query: "genus:Incilius specificepithet:alvarius" ; Times: 1
+	Query: "(bufo anaxyrus)" ; Times: 1
+	Query: "hyla cinerea oklahoma" ; Times: 2
+	Query: "pseudacris maculata nebraska" ; Times: 1
+	Query: "trivittata" ; Times: 3
+	Query: "Plethodon ouachitae" ; Times: 15
+	Query: "bufo woodhousii new mexico" ; Times: 1
+	Query: "(anaxyrus bufo)" ; Times: 1
+	Query: "Eleutherodactylus gryllus" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:gryllus" ; Times: 1
+	Query: "anaxyrus woodhousii new mexico" ; Times: 3
+	Query: "type:specimen (anaxyrus bufo)" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:altamirani" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana" ; Times: 1
+	Query: "13787" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 2
+	Query: "Plethodon glutinosus (Ohio)" ; Times: 1
+	Query: "gbifdatasetid:2e64dedd-0996-4cd6-b6cd-4f055a46c38c" ; Times: 1
+	Query: "eleutherodactylus gryllus" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "21820" ; Times: 1
+	Query: "Phyllomedusa centralis" ; Times: 1
+	Query: "desmognathus stateprovince:&#34;texas&#34; (desmognathus )" ; Times: 1
+	Query: "amereega trivittata" ; Times: 2
+	Query: "Hypsiboas cinerascens" ; Times: 12
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "specificepithet:boreas genus:Bufo county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "10929" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 924 download events in this period)
+Total number of records downloaded: 8236
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 17
+	Country: Colombia ; Times: 2
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-28 ; Times: 1
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-21 ; Times: 6
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-22 ; Times: 2
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana boylii" ; Times: 1
+	Query: "Anaxyrus canorus" ; Times: 1
+	Query: "Bufo canorus" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "hyla cinerea oklahoma" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "type:specimen family:Hyperoliidae" ; Times: 1
+	Query: "Eleutherodactylus gryllus" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 1
+	Query: "type:specimen (anaxyrus bufo)" ; Times: 1
+	Query: "bufo cognatus new mexico" ; Times: 1
+	Query: "scotobleps gabonicus" ; Times: 1
+	Query: "Plethodon glutinosus (Ohio)" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Phyllomedusa centralis" ; Times: 2
+	Query: "ambystoma" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "amereega trivittata" ; Times: 2
+	Query: "Spea hammondii" ; Times: 1
+	Query: "Lithobates sylvaticus" ; Times: 1
+
+
+End of report.
