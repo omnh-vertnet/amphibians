@@ -1,0 +1,211 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 392
+Number of records retrieved in searches: 8052
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 350
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 16
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 7
+	Country: Taiwan ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 10
+	Date: 2018-03-06 ; Times: 20
+	Date: 2018-03-28 ; Times: 23
+	Date: 2018-03-19 ; Times: 5
+	Date: 2018-03-07 ; Times: 15
+	Date: 2018-03-02 ; Times: 20
+	Date: 2018-03-16 ; Times: 5
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-03 ; Times: 12
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-05 ; Times: 17
+	Date: 2018-03-11 ; Times: 4
+	Date: 2018-03-29 ; Times: 4
+	Date: 2018-03-26 ; Times: 101
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-27 ; Times: 71
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-23 ; Times: 30
+	Date: 2018-03-20 ; Times: 17
+	Date: 2018-03-21 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Rhinella specificepithet:castaneotica" ; Times: 5
+	Query: "genus=Osteocephalus " ; Times: 1
+	Query: "genus:Siren specificepithet:intermedia" ; Times: 2
+	Query: "Leptodactylus stenodema" ; Times: 1
+	Query: "KUNHM 2534" ; Times: 3
+	Query: "pseudotriton montanus" ; Times: 3
+	Query: "scaphiopus hurterii" ; Times: 1
+	Query: "genus:Oreobates specificepithet:quixensis" ; Times: 5
+	Query: "Osteocephalus cabrerai" ; Times: 2
+	Query: "fieldnumber:15482" ; Times: 1
+	Query: "fieldnumber:15483" ; Times: 1
+	Query: "genus:Phlyctimantis specificepithet:leonardi" ; Times: 6
+	Query: "recordedby:Carpenter institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:taurinus sex:male year &gt;= 2010" ; Times: 1
+	Query: "genus:Hoplobatrachus specificepithet:occipitalis" ; Times: 2
+	Query: "specificepithet:luteiventris genus:Rana institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:areolatus genus:lithobates stateprovince:&#34;oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:canorus" ; Times: 6
+	Query: "genus:Lithobates specificepithet:grylio" ; Times: 5
+	Query: "genus:Nyctixalus specificepithet:pictus" ; Times: 5
+	Query: "21570" ; Times: 2
+	Query: "genus:Desmognathus specificepithet:sp" ; Times: 6
+	Query: "specificepithet:areolatus genus:lithobates stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "12594 SAM" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 1
+	Query: "16577" ; Times: 1
+	Query: "Hypsiboas crepitans mappable:1" ; Times: 1
+	Query: "fieldnumber:15505" ; Times: 1
+	Query: "genus:Eurycea specificepithet:sp." ; Times: 6
+	Query: "genus:Cryptothylax specificepithet:greshoffii" ; Times: 6
+	Query: "genus:Fejervarya" ; Times: 1
+	Query: "scaphiopus hurterii omnh" ; Times: 1
+	Query: "genus:Hylarana specificepithet:erythraea" ; Times: 5
+	Query: "16171" ; Times: 3
+	Query: "scientificname=pristimantis altamazonicus " ; Times: 1
+	Query: "genus:Occidozyga specificepithet:laevis" ; Times: 2
+	Query: "genus:Rana recordedby:Carpenter institutioncode:OMNH" ; Times: 1
+	Query: "genus:Elachistocleis specificepithet:bicolor" ; Times: 5
+	Query: "specificepithet:festae " ; Times: 1
+	Query: "genus:Hyalinobatrachium specificepithet:fleischmanni" ; Times: 2
+	Query: "genus:Mannophryne specificepithet:trinitatis" ; Times: 5
+	Query: "genus:Amietophrynus specificepithet:gracilipes" ; Times: 6
+	Query: "genus:Incilius specificepithet:coniferus" ; Times: 2
+	Query: "12594 R" ; Times: 1
+	Query: "rhacophorus pardalis OMNH" ; Times: 1
+	Query: "genus:Rana institutioncode:OMNH" ; Times: 1
+	Query: "ambystoma rosaceum" ; Times: 4
+	Query: "35919" ; Times: 1
+	Query: "33640" ; Times: 1
+	Query: "Ceratophrys" ; Times: 3
+	Query: "OMNH 1460" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 3
+	Query: "limnonectes leytensis OMNH" ; Times: 1
+	Query: "specificepithet:taurinus" ; Times: 1
+	Query: "specificepithet:rufescens genus:Chiromantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:taurinus " ; Times: 46
+	Query: "OMNH 35918" ; Times: 1
+	Query: "OMNH 35919" ; Times: 1
+	Query: "ceratophrys" ; Times: 1
+	Query: "26996" ; Times: 1
+	Query: "scientificname:pristimantis altamazonicus " ; Times: 2
+	Query: "Physalaemus fischeri" ; Times: 1
+	Query: "Kaloula kalingensis" ; Times: 1
+	Query: "genus:Triprion specificepithet:petasatus" ; Times: 2
+	Query: "OMNH 3039" ; Times: 1
+	Query: "OMNH 3839" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:OMNH" ; Times: 1
+	Query: "34047" ; Times: 1
+	Query: "scientificname:Osteocephalus taurinus " ; Times: 2
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 5
+	Query: "R 23339" ; Times: 1
+	Query: "26861" ; Times: 1
+	Query: "genus:Scotobleps specificepithet:gabonicus" ; Times: 6
+	Query: "genus:Ambystoma county:&#34;Oklahoma&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "(Lithobates catesbeianus)" ; Times: 5
+	Query: "Limnonectes OMNH" ; Times: 2
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 6
+	Query: "Hylarana OMNH" ; Times: 1
+	Query: "16003" ; Times: 1
+	Query: "genus:Conraua specificepithet:crassipes" ; Times: 5
+	Query: "genus:Hyla specificepithet:avivoca" ; Times: 6
+	Query: "genus:Bufo specificepithet:japonicus" ; Times: 6
+	Query: "genus:Pulchrana specificepithet:similis" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "genus:Limnonectes specificepithet:macrocephalus" ; Times: 5
+	Query: "genus:Chiasmocleis specificepithet:albopunctata" ; Times: 9
+	Query: "(Lithobates sylvaticus)" ; Times: 2
+	Query: "genus:Rhinella specificepithet:schneideri" ; Times: 5
+	Query: "genus:Anaxyrus specificepithet:microscaphus" ; Times: 2
+	Query: "genus:Platymantis specificepithet:polillensis" ; Times: 5
+	Query: "genus:Anomaloglossus" ; Times: 3
+	Query: "specificepithet=taurinus" ; Times: 2
+	Query: "genus:cynops institutioncode:OMNH" ; Times: 2
+	Query: "15144" ; Times: 1
+	Query: "genus:Phyzelaphryne specificepithet:miriamae" ; Times: 5
+	Query: "lithobates catesbeianus sinaloa" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "genus:Cynops specificepithet:pyrrhogaster" ; Times: 5
+	Query: "Anaxyrus FMNH" ; Times: 1
+	Query: "specificepithet=taurinus " ; Times: 24
+	Query: "26356" ; Times: 1
+	Query: "Ceratophrys cranwelli" ; Times: 3
+	Query: "genus:Pseudacris specificepithet:ornata" ; Times: 7
+	Query: "44414" ; Times: 1
+	Query: "omnh 22433" ; Times: 1
+	Query: "genus:Philautus specificepithet:surdus" ; Times: 5
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 5
+	Query: "genus:Allophryne specificepithet:ruthveni" ; Times: 5
+	Query: "Pristimantis tissue" ; Times: 4
+	Query: "18525" ; Times: 1
+	Query: "genus:Spea specificepithet:multiplicata" ; Times: 2
+	Query: "genus:Rhinophrynus specificepithet:dorsalis" ; Times: 2
+	Query: "47432`" ; Times: 1
+	Query: "genus:Oophaga specificepithet:pumilio" ; Times: 5
+	Query: "genus:Megophrys specificepithet:stejnegeri" ; Times: 3
+	Query: "genus:Ambystoma stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "rhacophorus pardalis omnh" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:cognatus" ; Times: 6
+	Query: "fieldnumber:11282" ; Times: 1
+	Query: "specificepithet:taurinus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Rhacophorus specificepithet:appendiculatus" ; Times: 2
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 2
+	Query: "genus:Amnirana specificepithet:albolabris" ; Times: 6
+	Query: "genus:Thorius specificepithet:narisovalis" ; Times: 6
+	Query: "genus:Anaxyrus specificepithet:quercicus" ; Times: 2
+	Query: "MCZ 2712" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1284 download events in this period)
+Total number of records downloaded: 22837
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Belgium ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-26 ; Times: 1
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "pseudotriton montanus" ; Times: 1
+	Query: "specificepithet:jordani genus:plethodon AND NOT specificepithet:shermani AND NOT specificepithet:metcalfi AND NOT specificepithet:montanus AND NOT specificepithet:clemsonae AND NOT specificepithet:amplus AND NOT specificepithet:meridianus AND NOT specificepithet:cheoah" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:OMNH" ; Times: 1
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Pristimantis tissue" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "ambystoma rosaceum" ; Times: 4
+	Query: "eleutherodactylus gryllus" ; Times: 1
+
+
+End of report.
