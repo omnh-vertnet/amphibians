@@ -1,0 +1,196 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 221
+Number of records retrieved in searches: 5086
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: United Kingdom ; Times: 16
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: United States ; Times: 182
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 5
+	Date: 2018-01-18 ; Times: 11
+	Date: 2018-01-31 ; Times: 11
+	Date: 2018-01-30 ; Times: 7
+	Date: 2018-01-11 ; Times: 8
+	Date: 2018-01-10 ; Times: 9
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-17 ; Times: 12
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-24 ; Times: 22
+	Date: 2018-01-25 ; Times: 6
+	Date: 2018-01-08 ; Times: 4
+	Date: 2018-01-09 ; Times: 8
+	Date: 2018-01-28 ; Times: 8
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-26 ; Times: 8
+	Date: 2018-01-27 ; Times: 15
+	Date: 2018-01-06 ; Times: 12
+	Date: 2018-01-21 ; Times: 19
+	Date: 2018-01-22 ; Times: 5
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-04 ; Times: 7
+	Date: 2018-01-23 ; Times: 35
+	Date: 2018-01-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Under rock class:Amphibia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 3
+	Query: "Allobates trilineatus hassex:1" ; Times: 3
+	Query: "distance(location,geopoint(33.72463557,-96.7911926727045))&lt;1631" ; Times: 4
+	Query: "scaphiopus hurterii omnh" ; Times: 1
+	Query: "distance(location,geopoint(35.530571085,-105.1753736415))&lt;5373" ; Times: 3
+	Query: "distance(location,geopoint(36.784259511,-98.215133042))&lt;13670" ; Times: 3
+	Query: "Pseudacris maculata hastissue:1" ; Times: 2
+	Query: "Cruziohyla calcarifer" ; Times: 3
+	Query: "Craugastor augusti hassex:1" ; Times: 8
+	Query: "genus:Pseudacris specificepithet:fouquettei" ; Times: 1
+	Query: "allobates femoralis" ; Times: 1
+	Query: "Blommersia wittei" ; Times: 9
+	Query: "distance(location,geopoint(34.754019041,-98.659389363))&lt;15869" ; Times: 12
+	Query: "Hyloxalus chlorocraspedus" ; Times: 2
+	Query: "specificepithet:areolatus genus:lithobates" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "distance(location,geopoint(29.57616763575,-94.335494987))&lt;6303" ; Times: 2
+	Query: "Gephyromantis rivicola" ; Times: 2
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:hemiophrys" ; Times: 1
+	Query: "Allobates femoralis hassex:1" ; Times: 10
+	Query: "distance(location,geopoint(33.7427826252,-96.7929481645))&lt;1762" ; Times: 5
+	Query: "Trachycephalus typhonius" ; Times: 2
+	Query: "20821" ; Times: 1
+	Query: "Osteocephalus alboguttatus hassex:1" ; Times: 2
+	Query: "Stumpffia tetradactyla" ; Times: 2
+	Query: "cruziohyla calcarifer" ; Times: 11
+	Query: "plethodontid" ; Times: 1
+	Query: "Leptodactylus macrosternum" ; Times: 1
+	Query: "Allophryne ruthveni" ; Times: 6
+	Query: "specificepithet:areolatus genus:lithobates hastissue:1" ; Times: 2
+	Query: "Hyloxalus chlorocraspedus hassex:1" ; Times: 2
+	Query: "specificepithet:exsul genus:anaxyrus" ; Times: 1
+	Query: "Osteocephalus alboguttatus" ; Times: 2
+	Query: "Strabomantis sulcatus hassex:1" ; Times: 8
+	Query: "Oklahoma necturus" ; Times: 4
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "10299" ; Times: 1
+	Query: "21220" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "Gephyromantis webbi" ; Times: 2
+	Query: "Sam Noble Oklahoma Museum of Natural History amphibian" ; Times: 1
+	Query: "OMNH 45003" ; Times: 1
+	Query: "lithobates areolatus omnh" ; Times: 1
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "Craugastor rugulosus" ; Times: 4
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Gephyromantis eiselti" ; Times: 2
+	Query: "Scaphiopus hurterii OMNH" ; Times: 4
+	Query: "distance(location,geopoint(36.6427830095001,-101.216595491))&lt;5106" ; Times: 3
+	Query: "Anaxyrus canorus hassex:1" ; Times: 7
+	Query: "18139" ; Times: 1
+	Query: "Stumpffia grandis" ; Times: 2
+	Query: "OMNH amphibia hastissue:1" ; Times: 1
+	Query: "mantidactylus lugubris" ; Times: 1
+	Query: "Anodonthyla hutchisoni" ; Times: 3
+	Query: "oklahoma necturus" ; Times: 9
+	Query: "Gephyromantis leucomaculatus" ; Times: 2
+	Query: "plethodon angusticlavius vntype:specimen" ; Times: 1
+	Query: "Telmatobius culeus" ; Times: 3
+	Query: "Phyllomedusa centralis" ; Times: 2
+	Query: "distance(location,geopoint(35.578607797,-95.960324128))&lt;13371" ; Times: 3
+	Query: "genus:Platymantis specificepithet:bayani" ; Times: 1
+	Query: "24291" ; Times: 1
+	Query: "distance(location,geopoint(29.5991781095,-94.4035746806436))&lt;2784" ; Times: 3
+	Query: "lithobates areolatus" ; Times: 2
+	Query: "pseudacris crucifer hale" ; Times: 1
+	Query: "26413" ; Times: 1
+	Query: "telmatobius culeus" ; Times: 4
+	Query: "Hypsiboas roraima" ; Times: 2
+	Query: "distance(location,geopoint(33.4988060165,-104.408602877))&lt;15213" ; Times: 3
+	Query: "Guibemantis bicalcaratus" ; Times: 2
+	Query: "Hyloxalus bocagei" ; Times: 2
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "fieldnumber:13916" ; Times: 1
+	Query: "42679" ; Times: 1
+	Query: "scaphiopus hurteri omnh" ; Times: 1
+	Query: "17892" ; Times: 1
+	Query: "specificepithet:ocellatus genus:Leptopelis country:&#34;Gabon&#34;" ; Times: 1
+	Query: "Gephyromantis malagasius" ; Times: 2
+	Query: "Gephyromantis luteus" ; Times: 2
+	Query: "distance(location,geopoint(34.1738458175001,-96.6470341709999))&lt;8152" ; Times: 2
+	Query: "distance(location,geopoint(26.219201413,-98.5266965236825))&lt;20217" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1398 download events in this period)
+Total number of records downloaded: 1609
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 25
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 6
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-13 ; Times: 4
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-25 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "allobates femoralis" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "spea intermontana" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "Rana boylii" ; Times: 2
+	Query: "specificepithet:areolatus genus:lithobates hastissue:1" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "specificepithet:exsul genus:anaxyrus" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Rana draytonii" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Peltophryne" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "stateprovince:mississippi class:amphibia" ; Times: 1
+	Query: "Atelopus varius" ; Times: 2
+	Query: "amphibia madagascar" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "mantidactylus lugubris" ; Times: 1
+
+
+End of report.
