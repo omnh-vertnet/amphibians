@@ -1,0 +1,340 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 356
+Number of records retrieved in searches: 8626
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 15
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: United States ; Times: 293
+	Country: Spain ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 7
+	Date: 2018-05-22 ; Times: 5
+	Date: 2018-05-23 ; Times: 82
+	Date: 2018-05-24 ; Times: 70
+	Date: 2018-05-25 ; Times: 3
+	Date: 2018-05-26 ; Times: 3
+	Date: 2018-05-06 ; Times: 6
+	Date: 2018-05-07 ; Times: 7
+	Date: 2018-05-04 ; Times: 8
+	Date: 2018-05-02 ; Times: 14
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 6
+	Date: 2018-05-08 ; Times: 21
+	Date: 2018-05-09 ; Times: 5
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 4
+	Date: 2018-05-15 ; Times: 2
+	Date: 2018-05-14 ; Times: 6
+	Date: 2018-05-17 ; Times: 4
+	Date: 2018-05-16 ; Times: 70
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-10 ; Times: 11
+	Date: 2018-05-13 ; Times: 3
+	Date: 2018-05-12 ; Times: 3
+	Date: 2018-05-19 ; Times: 4
+	Date: 2018-05-18 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fitzingeri genus:Craugastor institutioncode:OMNH" ; Times: 3
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:OMNH" ; Times: 3
+	Query: "(january-stansberry cave) year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:augusti genus:Craugastor institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:hosii genus:Pedostibes institutioncode:OMNH" ; Times: 3
+	Query: "11051" ; Times: 1
+	Query: "specificepithet:ruber genus:Scinax institutioncode:OMNH" ; Times: 3
+	Query: "OMNH 39347" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 6
+	Query: "specificepithet:conjuncta genus:Kaloula institutioncode:OMNH" ; Times: 3
+	Query: "OMNH 39348" ; Times: 2
+	Query: "Megophrys stejnegeri OMNH" ; Times: 2
+	Query: "specificepithet:crepitans genus:Acris institutioncode:OMNH" ; Times: 6
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "omnh philippines albotuberculata" ; Times: 1
+	Query: "specificepithet:ouachitae genus:plethodon year &gt;= 1980" ; Times: 2
+	Query: "omnh 6111" ; Times: 2
+	Query: "specificepithet:multiplicata genus:Spea institutioncode:OMNH" ; Times: 3
+	Query: "31227 amphibia" ; Times: 1
+	Query: "specificepithet:africanus genus:Phrynobatrachus institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:crassipes genus:Conraua institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:melanonotus genus:Leptodactylus institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:cuvieri genus:Physalaemus institutioncode:OMNH" ; Times: 3
+	Query: "Epipedobates boulengeri" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "specificepithet:femoralis genus:Allobates institutioncode:OMNH" ; Times: 4
+	Query: "specificepithet:spelaea genus:eurycea (&#34;cave&#34;) year &gt;= 1970" ; Times: 1
+	Query: "vntype:specimen genus:Caecilia hastissue:1" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 5
+	Query: "18002" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Bolitoglossa striatula" ; Times: 1
+	Query: "specificepithet:parviceps genus:Dendropsophus institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:draytonii genus:Rana institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:orientalis genus:Bombina institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:tuberifera genus:Platypelis institutioncode:OMNH" ; Times: 3
+	Query: "Bufo japonicus" ; Times: 1
+	Query: "OMNH 39346" ; Times: 1
+	Query: "10048" ; Times: 1
+	Query: "specificepithet:spelaea genus:eurycea (&#34;cave&#34;) year &gt;= 1980" ; Times: 1
+	Query: "heterixalus madagascariensis" ; Times: 2
+	Query: "specificepithet:canorus genus:Anaxyrus institutioncode:OMNH" ; Times: 4
+	Query: "Incilius cristatus" ; Times: 2
+	Query: "specificepithet:poecilonotus genus:Arthroleptis institutioncode:OMNH" ; Times: 4
+	Query: "Hemiphractus scutatus" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Alvarius" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "Bolitoglossa mombachoensis" ; Times: 1
+	Query: "omnh bufo" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "specificepithet:geayi genus:Ctenophryne institutioncode:OMNH" ; Times: 3
+	Query: "Megophrys OMNH" ; Times: 1
+	Query: "kweichowensis" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:sequoyah genus:plethodon" ; Times: 1
+	Query: "locality:McKay" ; Times: 1
+	Query: "Bufotes boulengeri" ; Times: 1
+	Query: "specificepithet:spelaea genus:eurycea year &gt;= 1970" ; Times: 3
+	Query: "L. catesbeianus" ; Times: 1
+	Query: "specificepithet:kiamichi genus:plethodon year &gt;= 1980" ; Times: 2
+	Query: "specificepithet:ornata genus:Ceratophrys institutioncode:OMNH" ; Times: 3
+	Query: "Hemidactylium Arkansas" ; Times: 3
+	Query: "specificepithet:laevis genus:Occidozyga institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:punctatus genus:Anaxyrus institutioncode:OMNH" ; Times: 4
+	Query: "OMNH Philippines" ; Times: 3
+	Query: "specificepithet:madagascariensis genus:Aglyptodactylus institutioncode:OMNH" ; Times: 4
+	Query: "specificepithet:marnockii genus:Eleutherodactylus institutioncode:OMNH" ; Times: 3
+	Query: "37232" ; Times: 1
+	Query: "OMNH 6111 hastissue:1" ; Times: 1
+	Query: "Echinotriton andersoni" ; Times: 2
+	Query: "specificepithet:pleurostigma genus:Kalophrynus institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:cornuta genus:Ceratophrys institutioncode:OMNH" ; Times: 3
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "OMNH 6111" ; Times: 1
+	Query: "genus:Telmatobius country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:callidryas genus:Agalychnis institutioncode:OMNH" ; Times: 5
+	Query: "Chiasmocleis ventrimaculata" ; Times: 2
+	Query: "Craugastor augusti hassex:1" ; Times: 3
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:OMNH" ; Times: 3
+	Query: "Blommersia wittei" ; Times: 3
+	Query: "specificepithet:calcarifer genus:Cruziohyla institutioncode:OMNH" ; Times: 3
+	Query: "Eurycea rathbuni" ; Times: 1
+	Query: "OMNH 45364" ; Times: 2
+	Query: "specificepithet:hypochondrialis genus:Phyllomedusa institutioncode:OMNH" ; Times: 3
+	Query: "genus:amphiuma stateprovince:&#34;arkansas&#34; year &gt;= 1960" ; Times: 1
+	Query: "locality:Lita " ; Times: 1
+	Query: "Allobates femoralis hassex:1" ; Times: 4
+	Query: "specificepithet:marina genus:Rhinella institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:spelaea genus:eurycea" ; Times: 2
+	Query: "class:Amphibia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tylototriton kweichowensis" ; Times: 1
+	Query: "Dendrobates leucomelas" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:intermontana genus:Spea institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:pipa genus:Pipa institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:spelaea genus:eurycea (&#34;cave&#34;)" ; Times: 2
+	Query: "specificepithet:epitropicalis genus:Xenopus institutioncode:OMNH" ; Times: 3
+	Query: "Anaxyrus canorus hassex:1" ; Times: 4
+	Query: "Strabomantis sulcatus hassex:1" ; Times: 3
+	Query: "class:Amphibia county:&#34;aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:catesbeianus genus:Lithobates mappable:1 year&gt;=2000" ; Times: 2
+	Query: "specificepithet:multiplicata genus:eurycea stateprovince:&#34;arkansas&#34; year &gt;= 1960" ; Times: 1
+	Query: "specificepithet:nigromaculatus genus:Pelophylax institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:bislineata genus:Eurycea county:&#34;Frederick&#34; stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "specificepithet:angusticlavius genus:plethodon stateprovince:&#34;arkansas&#34; AND (NOT &#34;AR route 14&#34;)" ; Times: 1
+	Query: "Plethodon albagula" ; Times: 1
+	Query: "genus:Siphonops specificepithet:paulensis" ; Times: 3
+	Query: "Plethodon kiamichi" ; Times: 1
+	Query: "genus:Ranitomeya specificepithet:ventrimaculata" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "specificepithet:magnus genus:Limnonectes institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:OMNH" ; Times: 3
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Plethodon sequoyah" ; Times: 1
+	Query: "distance(location,geopoint(38.3577784560001,-87.4390652764999))&lt;30214" ; Times: 2
+	Query: "OMNH 16504" ; Times: 2
+	Query: "specificepithet:albagula genus:plethodon stateprovince:&#34;arkansas&#34; (&#34;cave&#34;)" ; Times: 1
+	Query: "specificepithet:ventrimaculata genus:Chiasmocleis institutioncode:OMNH" ; Times: 3
+	Query: "Eurycea tridentifera" ; Times: 1
+	Query: "specificepithet:multiplicata genus:eurycea stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Rhinophrynus institutioncode:OMNH" ; Times: 3
+	Query: "genus:Caecilia hastissue:1" ; Times: 11
+	Query: "specificepithet:lineatus genus:Lithodytes institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:ruthveni genus:Allophryne institutioncode:OMNH" ; Times: 4
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:OMNH" ; Times: 3
+	Query: "KUNHM 7888" ; Times: 1
+	Query: "specificepithet:richmondi genus:plethodon stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "locality:Chattanooga stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:japonica genus:Rana institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:sulcatus genus:Strabomantis institutioncode:OMNH" ; Times: 3
+	Query: "35076" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:OMNH" ; Times: 3
+	Query: "31227" ; Times: 2
+	Query: "specificepithet:japonicus genus:Bufo institutioncode:OMNH" ; Times: 3
+	Query: "24432" ; Times: 1
+	Query: "omnh philippines" ; Times: 6
+	Query: "Eurycea braggi" ; Times: 2
+	Query: "specificepithet:diastema genus:Diasporus institutioncode:OMNH" ; Times: 3
+	Query: "genus:caecilia hastissue:1" ; Times: 1
+	Query: "specificepithet:ocellata genus:Rhinella institutioncode:OMNH" ; Times: 3
+	Query: "Dermatonotus muelleri mappable:1" ; Times: 1
+	Query: "specificepithet:peltocephala genus:Peltophryne institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:tomopterna genus:Phyllomedusa institutioncode:OMNH" ; Times: 3
+	Query: "Hyla arborea" ; Times: 2
+	Query: "specificepithet:mascareniensis genus:Ptychadena institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:luzonensis genus:Sanguirana institutioncode:OMNH" ; Times: 3
+	Query: "Hemidactylium Missouri" ; Times: 1
+	Query: "class:Amphibia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:kiamichi genus:plethodon" ; Times: 1
+	Query: "specificepithet:wittei genus:Blommersia institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:gabonicus genus:Scotobleps institutioncode:OMNH" ; Times: 3
+	Query: "39454" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:valliceps genus:Incilius institutioncode:OMNH" ; Times: 3
+	Query: "Eurycea spelaea" ; Times: 1
+	Query: "Staurois OMNH" ; Times: 2
+	Query: "genus:Echinotriton specificepithet:andersoni" ; Times: 1
+	Query: "27634" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 83 (out of 1178 download events in this period)
+Total number of records downloaded: 6627
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Spain ; Times: 57
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 6
+	Date: 2018-05-07 ; Times: 7
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-16 ; Times: 5
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-13 ; Times: 8
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-19 ; Times: 14
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-18 ; Times: 6
+	Date: 2018-05-20 ; Times: 3
+	Date: 2018-05-21 ; Times: 7
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 5
+	Date: 2018-05-24 ; Times: 3
+	Date: 2018-05-25 ; Times: 3
+	Date: 2018-05-26 ; Times: 4
+	Date: 2018-05-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Eurycea rathbuni" ; Times: 1
+	Query: "class:Amphibia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 2
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "class:amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eurycea tridentifera" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Plethodon kentucki" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "class:Amphibia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eurycea multiplicata" ; Times: 1
+	Query: "Eurycea spelaea" ; Times: 1
+	Query: "Incilius cristatus" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Bolitoglossa mombachoensis" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "Bolitoglossa striatula" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "L. catesbeianus" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "class:Amphibia county:&#34;aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;SINALOA&#34;" ; Times: 2
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "Eurycea tynerensis" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Eurycea nana" ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Lithobates yavapaiensis" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 2
+	Query: "Plethodon albagula" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 1
+	Query: "Plethodon kiamichi" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "Eurycea neotenes" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "Plethodon sequoyah" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "Echinotriton andersoni" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Texas&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+
+
+End of report.
