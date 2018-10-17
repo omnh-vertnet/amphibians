@@ -1,0 +1,224 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 2772
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 2
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 76
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 38
+	Country: Argentina ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 5
+	Date: 2018-08-19 ; Times: 2
+	Date: 2018-08-16 ; Times: 4
+	Date: 2018-08-14 ; Times: 10
+	Date: 2018-08-15 ; Times: 3
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-10 ; Times: 4
+	Date: 2018-08-11 ; Times: 5
+	Date: 2018-08-02 ; Times: 3
+	Date: 2018-08-08 ; Times: 12
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-22 ; Times: 15
+	Date: 2018-08-21 ; Times: 8
+	Date: 2018-08-20 ; Times: 42
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-06 ; Times: 5
+	Date: 2018-08-01 ; Times: 11
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates berlandieri mappable:1" ; Times: 1
+	Query: "specificepithet:batesi genus:Astylosternus hastissue:1" ; Times: 1
+	Query: "puma family:hylidae" ; Times: 1
+	Query: "specificepithet:TALAMANCAE class:Amphibia country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:andersoni genus:Echinotriton" ; Times: 1
+	Query: "35547" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 1
+	Query: "specificepithet:nigromaculatus genus:pelophylax" ; Times: 1
+	Query: "Anaxyrus canorus" ; Times: 2
+	Query: "vntype:specimen specificepithet:americanus genus:Anaxyrus hastissue:1" ; Times: 2
+	Query: "10699" ; Times: 1
+	Query: "specificepithet:augusti genus:craugastor stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "26688" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "32593" ; Times: 7
+	Query: "class:amphibia stateprovince:&#34;California&#34; year &gt;= 2018" ; Times: 1
+	Query: "Hypopachus variolosus mappable:1" ; Times: 1
+	Query: "Leptodactylus pentadactylus mappable:1" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "Megophrys stejnegeri OMNH" ; Times: 1
+	Query: "specificepithet:calcarifer class:Amphibia country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 4
+	Query: "larva order:Caudata institutioncode:OMNH" ; Times: 1
+	Query: "Scinax ruber mappable:1" ; Times: 1
+	Query: "order:Anura country:&#34;Sudan&#34;" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "vntype:specimen specificepithet:berlandieri genus:Lithobates stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "39306" ; Times: 1
+	Query: "family:dENDROBATIDAE country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:rathbuni genus:Eurycea" ; Times: 1
+	Query: "Leptodactylus mystaceus mappable:1" ; Times: 1
+	Query: "alvarius" ; Times: 2
+	Query: "30447" ; Times: 1
+	Query: "pleurodema brachyops" ; Times: 1
+	Query: "Anaxyrus americanus hastissue:1" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Lithobates stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rhinella margaritifera mappable:1" ; Times: 1
+	Query: "genus:Incilius specificepithet:alvarius" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "order:Gymnophiona country:&#34;Nicaragua&#34;" ; Times: 19
+	Query: "MCZ R-33594" ; Times: 2
+	Query: "30046" ; Times: 1
+	Query: "32613" ; Times: 2
+	Query: "41411" ; Times: 1
+	Query: "Spea intermontana OMNH" ; Times: 1
+	Query: "specificepithet:grandidieri" ; Times: 1
+	Query: "Hylarana erythraea mappable:1" ; Times: 1
+	Query: "11297" ; Times: 1
+	Query: "allobates trilineatus" ; Times: 1
+	Query: "genus:Scaphiopus order:Anura stateprovince:&#34;Florida&#34; year &gt;= 2000" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 1
+	Query: "21408" ; Times: 1
+	Query: "Lithobates palustris mappable:1" ; Times: 1
+	Query: "15862" ; Times: 2
+	Query: "genus:Rhinella specificepithet:schneideri" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 2
+	Query: "incilius melanochlorus" ; Times: 1
+	Query: "genus:Scaphiopus order:Anura stateprovince:&#34;Florida&#34; year &gt;= 1990" ; Times: 1
+	Query: "country:Ecuador scientificname:Allobates femoralis " ; Times: 15
+	Query: "colostethus stepheni" ; Times: 2
+	Query: "omnh 40167" ; Times: 1
+	Query: "specificepithet:talamancae country:&#34;Nicaragua&#34;" ; Times: 4
+	Query: "Trachycephalus typhonius mappable:1" ; Times: 1
+	Query: "25891" ; Times: 1
+	Query: "Physalaemus cuvieri mappable:1" ; Times: 1
+	Query: "Incilius valliceps mappable:1" ; Times: 1
+	Query: "genus:Amnirana specificepithet:albolabris" ; Times: 4
+	Query: "27449" ; Times: 1
+	Query: "Leptodactylus fuscus mappable:1" ; Times: 1
+	Query: "specificepithet:augusti genus:craugastor stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "teeth oklahoma" ; Times: 1
+	Query: "26380" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "telmatobius culeus" ; Times: 1
+	Query: "genus:Bolitoglossa country:&#34;Nicaragua&#34;" ; Times: 12
+	Query: "33004" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 1416 download events in this period)
+Total number of records downloaded: 2980
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 32
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-15 ; Times: 2
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-19 ; Times: 9
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-26 ; Times: 4
+	Date: 2018-08-25 ; Times: 9
+	Date: 2018-08-24 ; Times: 19
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-02 ; Times: 4
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:andersoni genus:Echinotriton" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "specificepithet:andreae genus:Adenomera" ; Times: 1
+	Query: "specificepithet:petersi genus:Engystomops" ; Times: 1
+	Query: "specificepithet:ruber genus:Scinax" ; Times: 1
+	Query: "specificepithet:garbei genus:Scinax" ; Times: 2
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:hylaedactyla genus:Adenomera" ; Times: 1
+	Query: "specificepithet:cirrigera genus:eurycea" ; Times: 1
+	Query: "specificepithet:rhodopeplus genus:Dendropsophus" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "specificepithet:tomopterna genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:cabrerai genus:Osteocephalus" ; Times: 1
+	Query: "specificepithet:rhodomystax genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:rathbuni genus:Eurycea" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "Incilius nebulifer" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:wagneri genus:Leptodactylus" ; Times: 1
+	Query: "alvarius" ; Times: 1
+	Query: "specificepithet:leptodactyloides genus:Leptodactylus" ; Times: 1
+	Query: "oaxaca and amphibia" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 2
+	Query: "Anaxyrus compactilis" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "specificepithet:perezi genus:Edalorhina" ; Times: 1
+	Query: "hyla eximia" ; Times: 1
+	Query: "specificepithet:stenodema genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:vaillantii genus:Phyllomedusa" ; Times: 1
+	Query: "proceratophrys" ; Times: 1
+	Query: "specificepithet:lacrimosus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:acuminatus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:mystaceus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:femoralis genus:Allobates" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "specificepithet:calcarifer genus:Cruziohyla" ; Times: 1
+	Query: "specificepithet:sarayacuensis genus:Dendropsophus" ; Times: 1
+	Query: "order:Gymnophiona country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "specificepithet:peruvianus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:parviceps genus:Dendropsophus" ; Times: 1
+	Query: "Agalychnis callidryas year &gt;= 1930 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:diadematus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:conspicillatus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:sulcatus genus:Strabomantis" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:catesbeianus genus:Lithobates hastissue:1" ; Times: 2
+	Query: "specificepithet:funereus genus:Scinax" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "specificepithet:knudseni genus:Leptodactylus" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "specificepithet:riveroi genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:tarsius genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:bassleri genus:Chiasmocleis" ; Times: 1
+
+
+End of report.
