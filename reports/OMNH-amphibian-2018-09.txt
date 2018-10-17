@@ -1,0 +1,159 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 1267
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Madagascar ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Nicaragua ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-30 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-10 ; Times: 4
+	Date: 2018-09-05 ; Times: 3
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-11 ; Times: 4
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-21 ; Times: 4
+	Date: 2018-09-17 ; Times: 4
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 5
+	Date: 2018-09-18 ; Times: 9
+	Date: 2018-09-08 ; Times: 5
+	Date: 2018-09-03 ; Times: 4
+	Date: 2018-09-04 ; Times: 4
+	Date: 2018-09-02 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "34893-1" ; Times: 1
+	Query: "OMNH 46722" ; Times: 1
+	Query: "hyloxalus" ; Times: 1
+	Query: "genus:Conraua hastissue:1" ; Times: 5
+	Query: "country:Ecuador scientificname:Allobates femoralis " ; Times: 3
+	Query: "amphiuma tridactylum year &gt;= 1927" ; Times: 1
+	Query: "specificepithet:boreas AND (genus:Anaxyrus OR genus:Bufo) AND stateprovince:Alaska" ; Times: 2
+	Query: "amphiuma tridactylum" ; Times: 3
+	Query: "plethodon sequoyah" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 1
+	Query: "genus:Conraua year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "ambystoma rosaceum" ; Times: 1
+	Query: "Eurycea spelaea" ; Times: 1
+	Query: "ottys sanders" ; Times: 1
+	Query: "country:Ecuador scientificname:Allobates trilineatus " ; Times: 1
+	Query: "vntype:specimen genus:Hyloxalus sex:male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "genus:Atelopus specificepithet:hoogmoedi" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 2
+	Query: "genus:Mantidactylus specificepithet:grandidieri" ; Times: 2
+	Query: "Pleurodema brachyops" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "specificepithet:callidryas country:&#34;Nicaragua&#34;" ; Times: 3
+	Query: "33513" ; Times: 1
+	Query: "22579" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "eurycea spelaea" ; Times: 1
+	Query: "family:proteidae stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Adenomera andreae " ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 5
+	Query: "Ambystoma rosaceum rosaceum" ; Times: 1
+	Query: "genus:siren year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Plethodon serratus" ; Times: 1
+	Query: "gbifdatasetid:2e64dedd-0996-4cd6-b6cd-4f055a46c38c" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "family:Ambystomatidae class:amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Lithobates areolatus OMNH" ; Times: 2
+	Query: "jongsma" ; Times: 1
+	Query: "Richard Lardie" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "genus:Amnirana specificepithet:albolabris" ; Times: 1
+	Query: "specificepithet:angusticlavius genus:plethodon" ; Times: 1
+	Query: "specificepithet:crassipes genus:Conraua year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "Echinotriton andersoni" ; Times: 2
+	Query: "27792" ; Times: 1
+	Query: "genus:Allobates hastissue:1" ; Times: 2
+	Query: "MCZ 9663" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 846 download events in this period)
+Total number of records downloaded: 2901
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 1
+	Country: Spain ; Times: 4
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-06 ; Times: 6
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-17 ; Times: 4
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 6
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereus genus:plethodon" ; Times: 1
+	Query: "specificepithet:dorsalis genus:plethodon" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "genus:desmognathus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "siren intermedia" ; Times: 2
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "genus:Colostethus hastissue:1" ; Times: 2
+	Query: "specificepithet:serratus genus:plethodon" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "ArcGis" ; Times: 1
+	Query: "microscaphus" ; Times: 1
+	Query: "specificepithet:mississippi genus:Plethodon" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "genus:Conraua" ; Times: 1
+	Query: "rana draytonii vntype:specimen" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "dendropsophus parviceps" ; Times: 2
+	Query: "specificepithet:vehiculum genus:plethodon" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "Scinax staufferi" ; Times: 1
+	Query: "specificepithet:angusticlavius genus:plethodon" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "genus:Allobates hastissue:1" ; Times: 1
+	Query: "specificepithet:dunni genus:plethodon" ; Times: 1
+
+
+End of report.
