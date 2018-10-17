@@ -1,0 +1,191 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 973
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 65
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Nicaragua ; Times: 15
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 11
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-03 ; Times: 5
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 4
+	Date: 2018-06-24 ; Times: 3
+	Date: 2018-06-27 ; Times: 8
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-20 ; Times: 7
+	Date: 2018-06-23 ; Times: 3
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-15 ; Times: 10
+	Date: 2018-06-17 ; Times: 6
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-28 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Caudata lifestage:larva institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:diastema genus:Diasporus country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 2
+	Query: "42139-1" ; Times: 1
+	Query: "specificepithet:coniferus genus:Incilius country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:warszewitschii genus:Lithobates country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:noblei genus:Craugastor country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "class:amphibia county:&#34;Inyo&#34; year &gt;= 1981 year &lt;= 1990" ; Times: 1
+	Query: "county:&#34;Mojave&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 2
+	Query: "eleutherodactylus marnockii" ; Times: 2
+	Query: "specificepithet:fouquettei genus:pseudacris stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:coniferus genus:Incilius hastissue:1" ; Times: 1
+	Query: "Elachistocleis bicolor" ; Times: 1
+	Query: "specificepithet:noblei genus:Craugastor" ; Times: 1
+	Query: "specificepithet:fouquettei genus:pseudacris" ; Times: 1
+	Query: "Epipedobates boulengeri" ; Times: 1
+	Query: "specificepithet:savagei genus:Leptodactylus country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:striatula genus:Bolitoglossa country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:squirella genus:hyla stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "Tylototriton kweichowensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinella marina " ; Times: 3
+	Query: "eurycea rathbuni" ; Times: 2
+	Query: "Allobates trilineatus" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Gymnopis hastissue:1" ; Times: 1
+	Query: "genus:Osteocephalus specificepithet:leprieurii" ; Times: 2
+	Query: "genus:necturus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:femoralis genus:hyla stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "craugastor augusti" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "class:Amphibia county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "allobates" ; Times: 1
+	Query: "specificepithet:talamancae genus:Allobates country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "39047" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; lithobates catesbeianus" ; Times: 1
+	Query: "genus:Dermatonotus specificepithet:muelleri" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "cryptobranchus pennsylvania" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 3
+	Query: "Platymantis bayani" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "specificepithet:cerasinus genus:Pristimantis country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:bransfordii genus:Craugastor country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:sphenocephalus genus:Lithobates stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:kalingensis genus:Kaloula" ; Times: 6
+	Query: "fieldnumber:2027" ; Times: 1
+	Query: "colorado lizard" ; Times: 1
+	Query: "specificepithet:canorus class:amphibia county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Gymnopis country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Allobates femoralis " ; Times: 1
+	Query: "class:Amphibia county:&#34;Brooks&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "eurycea braggi" ; Times: 2
+	Query: "genus:Hypsiboas specificepithet:calcaratus" ; Times: 1
+	Query: "omnh 46152" ; Times: 1
+	Query: "specificepithet:sordida genus:Smilisca country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Allobates femoralis" ; Times: 1
+	Query: "eurycea tridentifera" ; Times: 1
+	Query: "specificepithet:laevissimus genus:Craugastor country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:Craugastor specificepithet:augusti" ; Times: 1
+	Query: "beavers" ; Times: 2
+	Query: "fieldnumber:7927" ; Times: 1
+	Query: "Allobates hastissue:1" ; Times: 2
+	Query: "MVZ 38986" ; Times: 2
+	Query: "OMNH 34545" ; Times: 2
+	Query: "Echinotriton andersoni" ; Times: 1
+	Query: "rattle snake" ; Times: 1
+	Query: "class:amphibia county:&#34;Inyo&#34; year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "dart frogs" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "specificepithet:savagei genus:Leptodactylus hastissue:1" ; Times: 1
+	Query: "specificepithet:talamancae genus:Allobates hastissue:1" ; Times: 1
+	Query: "specificepithet:ridens genus:Pristimantis country:&#34;Nicaragua&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1169 download events in this period)
+Total number of records downloaded: 920
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Brazil ; Times: 3
+	Country: Spain ; Times: 9
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 10
+	Date: 2018-06-06 ; Times: 10
+	Date: 2018-06-05 ; Times: 7
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-03 ; Times: 5
+	Date: 2018-06-02 ; Times: 4
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-08 ; Times: 6
+	Date: 2018-06-23 ; Times: 3
+	Date: 2018-06-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "taricha granulosa" ; Times: 3
+	Query: "Siren lacertina" ; Times: 1
+	Query: "eurycea rathbuni" ; Times: 1
+	Query: "class:Amphibia county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tylototriton kweichowensis" ; Times: 1
+	Query: "Incilius nebulifer" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Allobates hastissue:1" ; Times: 1
+	Query: "genus:Osteocephalus specificepithet:leprieurii" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 2
+	Query: "moose" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "class:Amphibia county:&#34;Brooks&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "dart frogs" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "Bobcat" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "Amphibia SALAMANDER" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "newt" ; Times: 3
+	Query: "valliceps" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "Siren intermedia" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "genus:Hypsiboas specificepithet:calcaratus" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:leucophyllatus" ; Times: 1
+	Query: "Cochranella" ; Times: 2
+
+
+End of report.
