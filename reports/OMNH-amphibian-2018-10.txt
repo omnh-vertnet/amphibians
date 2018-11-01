@@ -1,0 +1,206 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 121
+Number of records retrieved in searches: 1200
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 20
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 81
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Nicaragua ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-23 ; Times: 16
+	Date: 2018-10-22 ; Times: 5
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-02 ; Times: 4
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-05 ; Times: 2
+	Date: 2018-10-06 ; Times: 2
+	Date: 2018-10-26 ; Times: 6
+	Date: 2018-10-27 ; Times: 2
+	Date: 2018-10-24 ; Times: 5
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-08 ; Times: 3
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 4
+	Date: 2018-10-12 ; Times: 2
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-17 ; Times: 4
+	Date: 2018-10-16 ; Times: 45
+	Date: 2018-10-15 ; Times: 4
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Adenomera specificepithet:bokermanni" ; Times: 1
+	Query: "mountain chorus frog" ; Times: 1
+	Query: "genus:rana county:&#34;san francisco&#34;" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 2
+	Query: "OMNH platymantis dorsalis 45629" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45628" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45627" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45625" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45623" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 1
+	Query: "specificepithet:crassipes genus:Conraua year &gt;= 1990" ; Times: 2
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "Pristimantis hastissue:1" ; Times: 1
+	Query: "rana blairi omnh" ; Times: 1
+	Query: "OMNH 46739" ; Times: 1
+	Query: "Lithobates areolatus OMNH" ; Times: 2
+	Query: "OMNH platymantis dorsalis 46745" ; Times: 1
+	Query: "OMNH platymantis dorsalis 46744" ; Times: 1
+	Query: "OMNH platymantis dorsalis 46747" ; Times: 1
+	Query: "OMNH platymantis dorsalis 46741" ; Times: 1
+	Query: "OMNH platymantis dorsalis 46740" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45009" ; Times: 1
+	Query: "OMNH platymantis dorsalis 46742" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45007" ; Times: 1
+	Query: "Hypsiboas cinerascens" ; Times: 2
+	Query: "OMNH platymantis dorsalis 46749" ; Times: 1
+	Query: "OMNH platymantis dorsalis 46748" ; Times: 1
+	Query: "Oreobates quixensis" ; Times: 3
+	Query: "OMNH platymantis dorsalis 45632" ; Times: 1
+	Query: "20614" ; Times: 2
+	Query: "Hemiphractus scutatus" ; Times: 2
+	Query: "24128" ; Times: 2
+	Query: "hyloxalus" ; Times: 2
+	Query: "specificepithet:debilis genus:Anaxyrus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "OMNH platymantis dorsalis 46753" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45019" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45017" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45010" ; Times: 1
+	Query: "specificepithet:debilis genus:anaxyrus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "OMNH platymantis dorsalis 46734" ; Times: 1
+	Query: "OMNH platymantis dorsalis 46736" ; Times: 1
+	Query: "OMNH platymantis dorsalis 46733" ; Times: 1
+	Query: "OMNH platymantis dorsalis 46738" ; Times: 1
+	Query: "OMNH platymantis dorsalis 46739" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 2
+	Query: "country:Ecuador scientificname:Ranitomeya ventrimaculata " ; Times: 1
+	Query: "Lithobates catesbianus" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45020" ; Times: 1
+	Query: "Ranitomeya ventrimaculata" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:typhonius" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45613" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45611" ; Times: 1
+	Query: "Dendropsophus miyatai" ; Times: 1
+	Query: "OMNH 45011" ; Times: 1
+	Query: "OMNH 45012" ; Times: 1
+	Query: "family:ranidae stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "Plethodon county:&#34;New Haven&#34; stateprovince:&#34;Connecticut&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "craugastor laevissimus" ; Times: 2
+	Query: "specificepithet:sequoyah genus:Plethodon stateprovince:&#34;oklahoma&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Allobates marchesianus" ; Times: 2
+	Query: "Dendrobates leucomelas" ; Times: 1
+	Query: "OMNH platymantis dorsalis 47356" ; Times: 1
+	Query: "OMNH 45006" ; Times: 1
+	Query: "OMNH 45003" ; Times: 1
+	Query: "Lithobates areolatus" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "Plethodon stateprovince:&#34;Connecticut&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Chiasmocleis bassleri" ; Times: 2
+	Query: "OMNH 45008" ; Times: 1
+	Query: "genus:Rhinella specificepithet:schneideri" ; Times: 1
+	Query: "genus:Conraua hastissue:1" ; Times: 1
+	Query: "ranitomeya vanzolinii" ; Times: 1
+	Query: "Platypelis tuberifera" ; Times: 1
+	Query: "Hyloxalus" ; Times: 2
+	Query: "Incilius melanochlorus" ; Times: 2
+	Query: "OMNH platymantis dorsalis 47339" ; Times: 1
+	Query: "OMNH platymantis dorsalis 47338" ; Times: 1
+	Query: "OMNH 45911" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45647" ; Times: 1
+	Query: "18237" ; Times: 2
+	Query: "22350" ; Times: 1
+	Query: "OMNH platymantis dorsalis 47335" ; Times: 1
+	Query: "FMNH 1789" ; Times: 1
+	Query: "amazophrynella" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "genus:Conraua year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:annulatum" ; Times: 1
+	Query: "family:Ranidae stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "17776" ; Times: 1
+	Query: "Pristimantis acuminatus" ; Times: 2
+	Query: "Strabomantis sulcatus" ; Times: 2
+	Query: "22061" ; Times: 1
+	Query: "OMNH platymantis dorsalis 47340" ; Times: 1
+	Query: "OMNH platymantis dorsalis 46763" ; Times: 1
+	Query: "KUNHM 16474" ; Times: 1
+	Query: "OMNH platymantis dorsalis 46760" ; Times: 1
+	Query: "MVZ 38986" ; Times: 2
+	Query: "specificepithet:boreas stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "Caudata county:&#34;New Haven&#34; stateprovince:&#34;Connecticut&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1300 download events in this period)
+Total number of records downloaded: 4603
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-08 ; Times: 5
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-13 ; Times: 5
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "family:ranidae stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "family:Ranidae stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "Craugastor" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 2
+	Query: "specificepithet:debilis genus:anaxyrus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "Atelopus varius" ; Times: 1
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "specificepithet:blanchardi genus:Acris" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 1
+	Query: "Hypsiboas" ; Times: 1
+	Query: "Lithobates warszewitschii" ; Times: 1
+	Query: "Philautus" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 2
+	Query: "locality:OH" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 1
+	Query: "specificepithet:debilis genus:Anaxyrus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
