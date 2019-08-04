@@ -1,0 +1,180 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 1899
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 21
+	Country: United States ; Times: 75
+	Country: Belgium ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Paraguay ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 6
+	Date: 2019-07-18 ; Times: 4
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-08 ; Times: 17
+	Date: 2019-07-10 ; Times: 5
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-16 ; Times: 10
+	Date: 2019-07-17 ; Times: 13
+	Date: 2019-07-14 ; Times: 2
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-02 ; Times: 4
+	Date: 2019-07-29 ; Times: 3
+	Date: 2019-07-23 ; Times: 15
+	Date: 2019-07-22 ; Times: 4
+	Date: 2019-07-21 ; Times: 6
+	Date: 2019-07-20 ; Times: 2
+	Date: 2019-07-27 ; Times: 11
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-25 ; Times: 5
+	Date: 2019-07-01 ; Times: 5
+	Date: 2019-07-03 ; Times: 4
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pseudacris year &gt;= 2002 year &lt;= 2003" ; Times: 1
+	Query: "genus:Eurycea order:Caudata county:&#34;Christian&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Eurycea order:Caudata county:&#34;Taney&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 3
+	Query: "5 mi S Norman OMNH" ; Times: 1
+	Query: "genus:Siren specificepithet:intermedia" ; Times: 1
+	Query: "order:Caudata county:&#34;Christian&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Eurycea order:Caudata county:&#34;McDonald&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Phlyctimantis specificepithet:leonardi" ; Times: 1
+	Query: "Rhinella festae hastissue:1" ; Times: 2
+	Query: "ambystoma annulatum" ; Times: 10
+	Query: "plethodon neomexicanus" ; Times: 3
+	Query: "Rhinella schneideri" ; Times: 1
+	Query: "Pristimantis altamazonicus OMNH" ; Times: 1
+	Query: "OMNH 23616" ; Times: 2
+	Query: "specificepithet:texanum genus:Ambystoma county:&#34;Hughes&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "Rhinella schneideri hastissue:1" ; Times: 1
+	Query: "OMNH 34127" ; Times: 1
+	Query: "phyzelaphryne miriamae OMNH" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Brooks&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anaxyrus americanus hastissue:1" ; Times: 1
+	Query: "Anaxyrus debilis hastissue:1" ; Times: 1
+	Query: "1.5 mi E Norman" ; Times: 1
+	Query: "genus:Strabomantis specificepithet:sulcatus" ; Times: 1
+	Query: "17380" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:fischeri" ; Times: 1
+	Query: "specificepithet:typhonius genus:Trachycephalus mappable:1" ; Times: 1
+	Query: "Trachycephalus typhonius" ; Times: 3
+	Query: "Scinax fuscomarginatus" ; Times: 1
+	Query: "Pseudopaludicola ameghini" ; Times: 1
+	Query: "(Rhinella) hastissue:1" ; Times: 1
+	Query: "(Rhaebo ) hastissue:1" ; Times: 1
+	Query: "eleutherodactylus marnockii OMNH" ; Times: 1
+	Query: "genus:Afrixalus specificepithet:paradorsalis" ; Times: 1
+	Query: "(Amazophrynella) hastissue:1" ; Times: 1
+	Query: "Rhinella margaritifera hastissue:1" ; Times: 1
+	Query: "Bufotes boulengeri" ; Times: 1
+	Query: "Anaxyrus fowleri hastissue:1" ; Times: 2
+	Query: "phyllomedusa centralis OMNH" ; Times: 1
+	Query: "OMNH 35997" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Rhinella castaneotica OMNH" ; Times: 1
+	Query: "pristimantis altamazonicus OMNH" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;coconino&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "telmatobius culeus" ; Times: 2
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma county:&#34;McCurtain&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Incilius specificepithet:valliceps" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma county:&#34;Cleveland&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "gephyromantis malagasius" ; Times: 1
+	Query: "Anaxyrus punctatus hastissue:1" ; Times: 1
+	Query: "genus:Xenopus specificepithet:epitropicalis" ; Times: 1
+	Query: "Rhaebo guttatus hastissue:1" ; Times: 1
+	Query: "Anaxyrus speciosus hastissue:1" ; Times: 1
+	Query: "OMNH 34091" ; Times: 2
+	Query: "specificepithet:texanum genus:Ambystoma county:&#34;Pushmataha&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma county:&#34;Pottawatomie&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Lithobates sevosus" ; Times: 3
+	Query: "Bufo compactilis mappable:1" ; Times: 2
+	Query: "class:Amphibia county:&#34;Brooks&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Chiasmocleis specificepithet:albopunctata" ; Times: 1
+	Query: "specificepithet:pentadactylus genus:Leptodactylus mappable:1" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "Craugastor bransfordii OMNH" ; Times: 2
+	Query: "specificepithet:sordida genus:Smilisca mappable:1" ; Times: 1
+	Query: "Rhaebo Guttatus OMNH" ; Times: 1
+	Query: "Hypsiboas geographicus mappable:1" ; Times: 3
+	Query: "craugastor bransfordii OMNH" ; Times: 1
+	Query: "Rhinella castaneotica hastissue:1" ; Times: 1
+	Query: "anaxyrus compactilis" ; Times: 1
+	Query: "Rhinella granulosa hastissue:1" ; Times: 1
+	Query: "Chiasmocleis albopunctata" ; Times: 1
+	Query: "Rhinella schneideri mappable:1" ; Times: 2
+	Query: "(Anaxyrus ) hastissue:1" ; Times: 1
+	Query: "genus:Elachistocleis" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:tridactylum" ; Times: 1
+	Query: "genus:Eurycea order:Caudata county:&#34;Barry&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:gryllus" ; Times: 1
+	Query: "gephyromantis malagasius OMNH" ; Times: 1
+	Query: "genus:Rhinophrynus specificepithet:dorsalis" ; Times: 1
+	Query: "Rhinella marina hastissue:1" ; Times: 1
+	Query: "Rana draytonii" ; Times: 1
+	Query: "Rhinella ocellata hastissue:1" ; Times: 1
+	Query: "fieldnumber:11838" ; Times: 1
+	Query: "genus:Pseudacris year &gt;= 2002 year &lt;= 2003 hastissue:1" ; Times: 2
+	Query: "OMNH 34102" ; Times: 1
+	Query: "specificepithet:bombifrons stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Incilius coniferus hastissue:1" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:plethodon" ; Times: 2
+	Query: "specificepithet:fischeri genus:Physalaemus mappable:1" ; Times: 1
+	Query: "Anaxyrus cognatus hastissue:1" ; Times: 1
+	Query: "genus:Heterixalus" ; Times: 1
+	Query: "genus:Amnirana specificepithet:albolabris" ; Times: 1
+	Query: "genus:Eurycea order:Caudata county:&#34;Stone&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "rhinella ocellata OMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 985 download events in this period)
+Total number of records downloaded: 762
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-26 ; Times: 5
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Trachycephalus typhonius" ; Times: 1
+	Query: "plethodon ouachitae" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "telmatobius culeus" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+
+
+End of report.
