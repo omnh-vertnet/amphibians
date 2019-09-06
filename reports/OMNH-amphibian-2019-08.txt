@@ -1,0 +1,194 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 134
+Number of records retrieved in searches: 2252
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 19
+	Country: United States ; Times: 68
+	Country: Israel ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Argentina ; Times: 16
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 17
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 21
+	Date: 2019-08-01 ; Times: 8
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-04 ; Times: 4
+	Date: 2019-08-05 ; Times: 18
+	Date: 2019-08-06 ; Times: 3
+	Date: 2019-08-07 ; Times: 2
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-27 ; Times: 2
+	Date: 2019-08-24 ; Times: 2
+	Date: 2019-08-25 ; Times: 5
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-23 ; Times: 5
+	Date: 2019-08-20 ; Times: 7
+	Date: 2019-08-21 ; Times: 1
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-16 ; Times: 8
+	Date: 2019-08-15 ; Times: 8
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-10 ; Times: 3
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-26 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "fieldnumber:1380" ; Times: 1
+	Query: "Allobates brunneus" ; Times: 1
+	Query: "KUNHM 5081" ; Times: 1
+	Query: "Pristimantis fenestratus" ; Times: 1
+	Query: "Osteocephalus cabrerai" ; Times: 1
+	Query: "specificepithet:tenebrosus genus:dicamptodon stateprovince:&#34;Washington&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "Gephyromantis" ; Times: 1
+	Query: "Blommersia" ; Times: 1
+	Query: "Engystomops petersi" ; Times: 3
+	Query: "Anaxyrus debilis mappable:1" ; Times: 5
+	Query: "genus:Eurycea stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Plethodontohyla notosticta" ; Times: 1
+	Query: "KUNHM 2116" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 2
+	Query: "Chiasmocleis bassleri mappable:1" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "specificepithet:canorus genus:anaxyrus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Aglyptodactylus madagascariensis" ; Times: 1
+	Query: "specificepithet:tenebrosus genus:dicamptodon stateprovince:&#34;Washington&#34; year &gt;= 1995 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:canorus genus:anaxyrus year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "pseudacris clarkii omnh" ; Times: 1
+	Query: "OMNH 2407" ; Times: 1
+	Query: "Scinax ruber" ; Times: 1
+	Query: "Pristimantis ockendeni" ; Times: 1
+	Query: "Trachycephalus typhonius" ; Times: 1
+	Query: "eurycea rathbuni" ; Times: 2
+	Query: "Leptodactylus macrosternum mappable:1" ; Times: 1
+	Query: "Lithobates catesbeiana mappable:1" ; Times: 8
+	Query: "Incilius melanochlorus mappable:1" ; Times: 1
+	Query: "amazophrynella vntype:specimen hastissue:1" ; Times: 1
+	Query: "24771" ; Times: 3
+	Query: "Gephyromantis eiselti mappable:1" ; Times: 1
+	Query: "genus:Plethodon stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "notopthalmus" ; Times: 3
+	Query: "Rana aurora" ; Times: 3
+	Query: "Osteocephalus leprieurii" ; Times: 2
+	Query: "Hylarana erythraea mappable:1" ; Times: 1
+	Query: "Pseudacris fouquettei OMNH" ; Times: 1
+	Query: "genus:Allobates specificepithet:femoralis" ; Times: 1
+	Query: "Leptodactylus stenodema mappable:1" ; Times: 1
+	Query: "Anodonthyla" ; Times: 1
+	Query: "Leptodactylus knudseni mappable:1" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:typhonius" ; Times: 1
+	Query: "specificepithet:avivoca genus:hyla stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Eleutherodactylus marnockii" ; Times: 1
+	Query: "telmatobius culeus" ; Times: 1
+	Query: "county:&#34;Duval&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla hastissue:1" ; Times: 1
+	Query: "Aglyptodactylus" ; Times: 1
+	Query: "39641" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "Bolitoglossa striatula mappable:1" ; Times: 1
+	Query: "Stumpffia tetradactyla mappable:1" ; Times: 1
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 1
+	Query: "Pristimantis toftae" ; Times: 1
+	Query: "Acris blanchardi OMNH" ; Times: 3
+	Query: "24292" ; Times: 1
+	Query: "Rana catesbeianus mappable:1" ; Times: 2
+	Query: "eurycea tridentifera" ; Times: 1
+	Query: "Osteocephalus taurinus mappable:1" ; Times: 1
+	Query: "Pristimantis inguinalis" ; Times: 1
+	Query: "Leptodactylus bolivianus" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "anaxyrus canorus institutioncode:OMNH" ; Times: 1
+	Query: "genus:Ranitomeya specificepithet:ventrimaculata" ; Times: 1
+	Query: "lithobates clamitans stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Adenomera martinezi" ; Times: 1
+	Query: "Hyloxalus" ; Times: 1
+	Query: "Leptodactylus petersii mappable:1" ; Times: 1
+	Query: "Hyla eximia" ; Times: 1
+	Query: "Hypsiboas raniceps" ; Times: 1
+	Query: "genus:Heterixalus specificepithet:madagascariensis" ; Times: 1
+	Query: "Chiasmocleis albopunctata" ; Times: 3
+	Query: "amazophrynella" ; Times: 1
+	Query: "Craugastor augusti mappable:1" ; Times: 1
+	Query: "Osteocephalus taurinus" ; Times: 1
+	Query: "OMNH acris blanchardi" ; Times: 1
+	Query: "specificepithet:sphenocephalus genus:Lithobates stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Smilisca sordida" ; Times: 1
+	Query: "Leptodactylus petersii" ; Times: 1
+	Query: "specificepithet:gracile genus:Ambystoma stateprovince:&#34;Washington&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Pristimantis diadematus" ; Times: 1
+	Query: "Occidozyga laevis mappable:1" ; Times: 1
+	Query: "Cryptothylax greshoffii" ; Times: 1
+	Query: "Incilius alvarius mappable:1" ; Times: 3
+	Query: "specificepithet:altamirani genus:Ambystoma" ; Times: 1
+	Query: "Rana draytonii" ; Times: 3
+	Query: "21879" ; Times: 2
+	Query: "Leptodactylus rhodomystax" ; Times: 1
+	Query: "Eurycea nana" ; Times: 1
+	Query: "Lithodytes lineatus mappable:1" ; Times: 1
+	Query: "Allobates femoralis mappable:1" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Lysapsus caraya" ; Times: 2
+	Query: "Rhacophorus bimaculatus" ; Times: 1
+	Query: "genus:Amnirana specificepithet:albolabris" ; Times: 1
+	Query: "pseudacris fouquettei omnh" ; Times: 1
+	Query: "class:Amphibia locality:Seattle stateprovince:&#34;Washington&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1034 download events in this period)
+Total number of records downloaded: 700
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: France ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-15 ; Times: 3
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "batrachoseps attenuatus" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "specificepithet:canorus genus:(anaxyrus OR bufo) mappable:1" ; Times: 1
+	Query: "amazophrynella" ; Times: 2
+	Query: "rhinella marina" ; Times: 2
+	Query: "genus:Cryptobranchus" ; Times: 1
+	Query: "genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;esmeraldas&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+
+End of report.
