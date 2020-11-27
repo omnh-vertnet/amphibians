@@ -1,0 +1,176 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 108
+Number of records retrieved in searches: 2018
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 8
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 81
+	Country: Belgium ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 5
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 5
+	Date: 2019-10-20 ; Times: 4
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-25 ; Times: 3
+	Date: 2019-10-24 ; Times: 12
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 4
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-23 ; Times: 2
+	Date: 2019-10-22 ; Times: 3
+	Date: 2019-10-29 ; Times: 8
+	Date: 2019-10-19 ; Times: 3
+	Date: 2019-10-10 ; Times: 6
+	Date: 2019-10-11 ; Times: 7
+	Date: 2019-10-30 ; Times: 10
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-14 ; Times: 5
+	Date: 2019-10-15 ; Times: 12
+	Date: 2019-10-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "phyllomedusa omnh" ; Times: 1
+	Query: "omnh 41307" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 1
+	Query: "Rana japonica" ; Times: 1
+	Query: "leptodactylus sinaloa" ; Times: 1
+	Query: "Drew Davis" ; Times: 1
+	Query: "genus:Chiasmocleis" ; Times: 4
+	Query: "Pseudacris triseriata MSB" ; Times: 1
+	Query: "omnh 37614" ; Times: 1
+	Query: "omnh 37613" ; Times: 1
+	Query: "omnh 8648" ; Times: 1
+	Query: "hypsiboas mcz" ; Times: 1
+	Query: "pseudacris fouquettei" ; Times: 2
+	Query: "Ceratophrys cranwelli" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 5
+	Query: "genus:Eleutherodactylus specificepithet:marnockii" ; Times: 1
+	Query: "Rana aurora OMNH" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "incilius cristatus" ; Times: 1
+	Query: "Rana draytonii 2015" ; Times: 1
+	Query: "KUNHM 22581" ; Times: 1
+	Query: "Rana draytonii 2017" ; Times: 1
+	Query: "vntype:specimen recordedby:Drew Davis basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "39463" ; Times: 1
+	Query: "genus:rana county:&#34;San Francisco&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:scinax hastissue:1" ; Times: 2
+	Query: "SP 12815" ; Times: 1
+	Query: "hemidactylium county:&#34;polk&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "pseudacris fouquettei omnh" ; Times: 3
+	Query: "Allobates trilineatus" ; Times: 1
+	Query: "specificepithet:adspersus genus:Hyperolius" ; Times: 1
+	Query: "Osteocephalus alboguttatus" ; Times: 2
+	Query: "notophthalmus viridescens stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "18509" ; Times: 1
+	Query: "KUNHM 18130" ; Times: 1
+	Query: "lithobates berlandieri" ; Times: 1
+	Query: "sylvaticus Lithobates" ; Times: 2
+	Query: "MCZ 33967" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "Anaxyrus quercicus" ; Times: 1
+	Query: "LSU 25478" ; Times: 2
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "ambystoma annulatum county:&#34;polk&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Theloderma corticale" ; Times: 1
+	Query: "16467" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "omnh 8648 amphibians" ; Times: 2
+	Query: "11188" ; Times: 1
+	Query: "specificepithet:richmondi genus:plethodon stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "23763" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "Pelophylax nigromaculatus" ; Times: 1
+	Query: "Chiasmocleis" ; Times: 1
+	Query: "usnm maryland acris montgomery" ; Times: 1
+	Query: "genus:Rhinella specificepithet:festae" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "omnh amphibian 36062" ; Times: 3
+	Query: "11893" ; Times: 3
+	Query: "19803" ; Times: 1
+	Query: "omnh 36713" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "KUNHM 23651" ; Times: 1
+	Query: "omnh 50000" ; Times: 2
+	Query: "Rana draytonii 2009" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Adair&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "32887" ; Times: 1
+	Query: "genus:anaxyrus county:&#34;chase&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:rana county:&#34;San Francisco&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 2
+	Query: "Ambystoma altamirani" ; Times: 2
+	Query: "arborea Hyla" ; Times: 2
+	Query: "15983" ; Times: 1
+	Query: "genus:Proceratophrys hastissue:1" ; Times: 1
+	Query: "13267" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1308 download events in this period)
+Total number of records downloaded: 17258
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 19
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 15
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-10 ; Times: 4
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-15 ; Times: 7
+	Date: 2019-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:craugastor hastissue:1" ; Times: 1
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 3
+	Query: "Ambystoma altamirani" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "genus:rana county:&#34;San Francisco&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Leptopelis millsoni" ; Times: 1
+	Query: "genus:Astylosternus hastissue:1" ; Times: 2
+	Query: "genus:Chiasmocleis" ; Times: 1
+	Query: "genus:anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hyperolius guttulatus" ; Times: 1
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "genus:Pleurodema" ; Times: 2
+	Query: "Ptychadena perreti" ; Times: 2
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "Anaxyrus fowleri" ; Times: 1
+	Query: "astylosternus" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 4
+
+
+End of report.
