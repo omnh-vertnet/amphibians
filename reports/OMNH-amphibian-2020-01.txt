@@ -1,0 +1,604 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 573
+Number of records retrieved in searches: 16488
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 551
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 5
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 15
+	Date: 2020-01-03 ; Times: 2
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 13
+	Date: 2020-01-05 ; Times: 4
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-09 ; Times: 6
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-24 ; Times: 233
+	Date: 2020-01-29 ; Times: 8
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-19 ; Times: 7
+	Date: 2020-01-23 ; Times: 196
+	Date: 2020-01-15 ; Times: 7
+	Date: 2020-01-16 ; Times: 8
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-12 ; Times: 5
+	Date: 2020-01-13 ; Times: 4
+	Date: 2020-01-31 ; Times: 14
+	Date: 2020-01-30 ; Times: 39
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melanonotus genus:Leptodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lithodytes" ; Times: 1
+	Query: "specificepithet:labyrinthicus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:inguinalis genus:Pristimantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:mimulus genus:Platymantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:japonica genus:Rana" ; Times: 1
+	Query: "OMNH 47410" ; Times: 1
+	Query: "specificepithet:mimulus genus:Platymantis" ; Times: 1
+	Query: "county:&#34;Newton&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:chlorocraspedus genus:Hyloxalus" ; Times: 1
+	Query: "specificepithet:diastema genus:Diasporus" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea institutioncode:OMNH" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "specificepithet:rufescens genus:Chiromantis" ; Times: 1
+	Query: "specificepithet:fleischmanni genus:Hyalinobatrachium" ; Times: 1
+	Query: "33744" ; Times: 1
+	Query: "specificepithet:albopunctata genus:Chiasmocleis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:conjuncta genus:Kaloula" ; Times: 1
+	Query: "genus:Dermatonotus specificepithet:muelleri" ; Times: 1
+	Query: "specificepithet:paradorsalis genus:Afrixalus" ; Times: 1
+	Query: "specificepithet:cerasinus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne" ; Times: 1
+	Query: "specificepithet:cinerascens genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:calcarifer genus:Cruziohyla" ; Times: 1
+	Query: "specificepithet:evansi genus:Stefania" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Rhinophrynus" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:mascareniensis genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:vaillantii genus:Phyllomedusa institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:parviceps genus:Dendropsophus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:bransfordii genus:Craugastor institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:lepus genus:Amnirana institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:miriamae genus:Phyzelaphryne institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:leucophyllatus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:conjuncta genus:Kaloula institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:Heterixalus" ; Times: 1
+	Query: "specificepithet:rhodomystax genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:scutatus genus:Hemiphractus" ; Times: 1
+	Query: "specificepithet:acuminatus genus:Pristimantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:variolosus genus:Hypopachus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:boulengeri genus:Epipedobates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:talamancae genus:Allobates" ; Times: 1
+	Query: "specificepithet:pardalis genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:leucomaculatus genus:Gephyromantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:calcaratus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:wagneri genus:Leptodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:mystaceus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:orientalis genus:Bombina" ; Times: 1
+	Query: "specificepithet:stenodema genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:arborea genus:Hyla" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 8
+	Query: "specificepithet:albolabris genus:Amnirana institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:malagasius genus:Gephyromantis" ; Times: 1
+	Query: "specificepithet:opiparis genus:Mantidactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:Aglyptodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Eleutherodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:leucophyllatus genus:Dendropsophus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:pardalis genus:Rhacophorus" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:corrugatus genus:Platymantis" ; Times: 1
+	Query: "specificepithet:nanus genus:Dendropsophus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:caeruleodactylus genus:Allobates" ; Times: 1
+	Query: "specificepithet:baudinii genus:Smilisca institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:albopunctatus genus:Hypsiboas institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:hypochondrialis genus:Phyllomedusa institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:clarkii genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:malagasius genus:Gephyromantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:bicalcaratus genus:Guibemantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:webbi genus:Gephyromantis" ; Times: 1
+	Query: "specificepithet:andreae genus:Adenomera institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:gryllus genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:puma genus:Smilisca institutioncode:OMNH" ; Times: 1
+	Query: "Physalaemus cuvieri institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:fleischmanni genus:Hyalinobatrachium institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:quixensis genus:Oreobates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:woodworthi genus:Limnonectes institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:blanchardi genus:Acris" ; Times: 1
+	Query: "specificepithet:inguinalis genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:petersi genus:Engystomops institutioncode:OMNH" ; Times: 1
+	Query: "genus:Siphonops specificepithet:paulensis" ; Times: 1
+	Query: "specificepithet:sordida genus:Smilisca institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:conspicillatus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:crassipes genus:Conraua institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:sulcatus genus:Strabomantis" ; Times: 1
+	Query: "Rana draytonii 2009" ; Times: 6
+	Query: "specificepithet:regilla genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:cerasinus genus:Pristimantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:gabonicus genus:Scotobleps" ; Times: 1
+	Query: "specificepithet:lutzi genus:Adenomera institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:schlegelii genus:Rhacophorus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:hylaedactyla genus:Adenomera institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:fenestratus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:raniceps genus:Hypsiboas" ; Times: 1
+	Query: "Rana draytonii 24" ; Times: 4
+	Query: "specificepithet:ventrimaculata genus:Chiasmocleis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:hutchisoni genus:Anodonthyla" ; Times: 1
+	Query: "specificepithet:guentheri genus:Ceratobatrachus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:sulcatus genus:Strabomantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:toftae genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:lanciformis genus:Hypsiboas institutioncode:OMNH" ; Times: 1
+	Query: "fieldnumber:11888" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus" ; Times: 1
+	Query: "specificepithet:rugulosus genus:Craugastor institutioncode:OMNH" ; Times: 1
+	Query: "genus:Telmatobius specificepithet:culeus" ; Times: 1
+	Query: "specificepithet:betsileanus genus:Mantidactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:ridens genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:webbi genus:Gephyromantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:gratiosa genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:diadematus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:raniceps genus:Hypsiboas institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:gabonicus genus:Scotobleps institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:appendiculatus genus:Rhacophorus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:punctatus genus:Hypsiboas institutioncode:OMNH" ; Times: 1
+	Query: "salamandra Salamandra" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "Eleutherodactylus cameron county texas" ; Times: 1
+	Query: "specificepithet:cornuta genus:Ceratophrys" ; Times: 1
+	Query: "specificepithet:visayanus genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:feriarum genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:chlorocraspedus genus:Hyloxalus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:roseifemoralis genus:Stumpffia" ; Times: 1
+	Query: "country:Ecuador scientificname:Epipedobates boulengeri " ; Times: 1
+	Query: "specificepithet:ornata genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:augusti class:amphibia" ; Times: 2
+	Query: "specificepithet:ruber genus:Scinax institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:notosticta genus:Plethodontohyla" ; Times: 1
+	Query: "specificepithet:barbouri genus:Platypelis institutioncode:OMNH" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla" ; Times: 1
+	Query: "specificepithet:hammondii genus:Spea" ; Times: 1
+	Query: "specificepithet:wittei genus:Blommersia" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:paradorsalis genus:Afrixalus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:rubicundulus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:africanus genus:Phrynobatrachus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:woodworthi genus:Limnonectes" ; Times: 1
+	Query: "Dendropsophus parviceps institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:boliviana genus:Hamptophryne" ; Times: 1
+	Query: "specificepithet:gratiosa genus:Hyla" ; Times: 1
+	Query: "specificepithet:longirostris genus:Leptodactylus" ; Times: 1
+	Query: "genus:Cruziohyla specificepithet:calcarifer" ; Times: 2
+	Query: "specificepithet:mystaceus genus:Leptodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:sarayacuensis genus:Dendropsophus institutioncode:OMNH" ; Times: 1
+	Query: "Ranitomeya toraro" ; Times: 5
+	Query: "specificepithet:miriamae genus:Phyzelaphryne" ; Times: 1
+	Query: "phyllobates lugubris" ; Times: 1
+	Query: "specificepithet:boans genus:Hypsiboas" ; Times: 1
+	Query: "genus:Tylototriton specificepithet:kweichowensis" ; Times: 2
+	Query: "specificepithet:opiparis genus:Mantidactylus" ; Times: 1
+	Query: "specificepithet:riveroi genus:Dendropsophus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:riveroi genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:visayanus genus:Limnonectes institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:pentadactylus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Arthroleptis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:crepitans genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:schlegelii genus:Rhacophorus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Platymantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:cinerascens genus:Hypsiboas institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:lugubris genus:Mantidactylus" ; Times: 1
+	Query: "specificepithet:tetra genus:Platypelis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:vanzolinii genus:Dendrobates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:leprieurii genus:Osteocephalus" ; Times: 1
+	Query: "specificepithet:stepheni genus:Anomaloglossus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:vanzolinii genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:blanchardi genus:Acris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:ornata genus:Ceratophrys institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:quixensis genus:Oreobates" ; Times: 1
+	Query: "specificepithet:rufescens genus:Chiromantis institutioncode:OMNH" ; Times: 1
+	Query: "genus:Adenomera specificepithet:martinezi" ; Times: 1
+	Query: "Rana draytonii 15" ; Times: 4
+	Query: "Rana draytonii 16" ; Times: 4
+	Query: "Rana draytonii 11" ; Times: 4
+	Query: "Rana draytonii 10" ; Times: 4
+	Query: "Rana draytonii 12" ; Times: 4
+	Query: "specificepithet:leonardi genus:Phlyctimantis" ; Times: 1
+	Query: "specificepithet:bassleri genus:Chiasmocleis" ; Times: 1
+	Query: "specificepithet:marnockii genus:Eleutherodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:ocellata genus:Plethodontohyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:cadaverina genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:leonardi genus:Phlyctimantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:clarkii genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:bassleri genus:Chiasmocleis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:sordida genus:Smilisca" ; Times: 1
+	Query: "specificepithet:tuberifera genus:Platypelis" ; Times: 1
+	Query: "specificepithet:sarayacuensis genus:Dendropsophus" ; Times: 1
+	Query: "plethodon angusticlavius" ; Times: 2
+	Query: "OMNH 45810" ; Times: 1
+	Query: "OMNH 45811" ; Times: 1
+	Query: "specificepithet:cornuta genus:Ceratophrys institutioncode:OMNH" ; Times: 1
+	Query: "OMNH 45815" ; Times: 1
+	Query: "specificepithet:callidryas genus:Agalychnis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:hurterii genus:Scaphiopus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:eiselti genus:Gephyromantis" ; Times: 1
+	Query: "specificepithet:maculata genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:boesemani genus:Scinax institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:gracilis genus:Cardioglossa" ; Times: 1
+	Query: "specificepithet:geayi genus:Ctenophryne institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:leytensis genus:Limnonectes institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:trilineatus genus:Allobates" ; Times: 1
+	Query: "specificepithet:batesi genus:Astylosternus" ; Times: 1
+	Query: "recordedby:hunt year &gt;= 1980 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:hammondii genus:Spea institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:cancrivora genus:Fejervarya institutioncode:OMNH" ; Times: 1
+	Query: "35114" ; Times: 2
+	Query: "specificepithet:muelleri genus:Dermatonotus" ; Times: 1
+	Query: "genus:Chiasmocleis specificepithet:albopunctata" ; Times: 1
+	Query: "specificepithet:hutchisoni genus:Anodonthyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:millsoni genus:Leptopelis" ; Times: 1
+	Query: "specificepithet:centralis genus:Physalaemus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:intermontana genus:Spea institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:rugulosus genus:Hoplobatrachus" ; Times: 1
+	Query: "specificepithet:picta genus:Kaloula institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:grandis genus:Stumpffia institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:arborea genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "Leptodactylus macrosternum" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:Heterixalus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "specificepithet:barbouri genus:Platypelis" ; Times: 1
+	Query: "specificepithet:petersi genus:Engystomops" ; Times: 1
+	Query: "specificepithet:blairi genus:Rana institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:hylaedactyla genus:Adenomera" ; Times: 1
+	Query: "specificepithet:versicolor genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:laevis genus:Occidozyga" ; Times: 1
+	Query: "specificepithet:tomopterna genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:japonica genus:Rana institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:wagneri genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:nebulosus genus:Scinax institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:culeus genus:Telmatobius institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:45909.0 institutioncode:OMNH" ; Times: 2
+	Query: "specificepithet:rugulosus genus:Craugastor" ; Times: 1
+	Query: "OMNH 45843" ; Times: 1
+	Query: "specificepithet:cuvieri genus:Physalaemus" ; Times: 1
+	Query: "specificepithet:fitzingeri genus:Craugastor" ; Times: 1
+	Query: "specificepithet:albopunctatus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:leucomystax genus:Polypedates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:rivicola genus:Gephyromantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:muelleri genus:Dermatonotus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:femoralis genus:Allobates" ; Times: 1
+	Query: "specificepithet:ornata genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:rhodomystax genus:Leptodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:corticale genus:Theloderma institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:peruvianus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:surdus genus:Philautus institutioncode:OMNH" ; Times: 1
+	Query: "Rana draytonii 9" ; Times: 4
+	Query: "Rana draytonii 8" ; Times: 4
+	Query: "Rana draytonii 1" ; Times: 2
+	Query: "specificepithet:trinitatis genus:Mannophryne institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:natator genus:Staurois institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:crepitans genus:Hypsiboas institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:trilineatus genus:Allobates institutioncode:OMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:rathbuni genus:eurycea stateprovince:&#34;texas&#34; AND (NOT ethanol NOT alcoholic) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fitzingeri genus:Craugastor institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:greshoffii genus:Cryptothylax institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:augusti genus:Craugastor institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:cranwelli genus:Ceratophrys institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:alboguttatus genus:Osteocephalus" ; Times: 1
+	Query: "specificepithet:marnockii genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:ruthveni genus:Allophryne" ; Times: 1
+	Query: "specificepithet:grandis genus:Stumpffia" ; Times: 1
+	Query: "specificepithet:sila genus:Smilisca" ; Times: 1
+	Query: "specificepithet:adspersus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:boans genus:Hypsiboas institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:fouquettei genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:trinitatis genus:Mannophryne" ; Times: 1
+	Query: "specificepithet:cabrerai genus:Osteocephalus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:pardalis genus:Hyperolius institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:leali genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:stenodema genus:Leptodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:culeus genus:Telmatobius" ; Times: 1
+	Query: "specificepithet:parviceps genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:ockendeni genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:geographicus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:brachyops genus:Pleurodema institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:notosticta genus:Plethodontohyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:talamancae genus:Allobates institutioncode:OMNH" ; Times: 1
+	Query: "OMNH 47397" ; Times: 1
+	Query: "specificepithet:tuberifera genus:Platypelis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:pardalis genus:Rhacophorus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:macrocephalus genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:fouquettei genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:scutatum genus:hemidactylium stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:japonicus genus:Bufo" ; Times: 1
+	Query: "specificepithet:punctatus genus:Hypsiboas" ; Times: 1
+	Query: "leptodactylus texas" ; Times: 1
+	Query: "specificepithet:garbei genus:Scinax" ; Times: 1
+	Query: "specificepithet:bocagei genus:Hyloxalus" ; Times: 1
+	Query: "specificepithet:toftae genus:Pristimantis institutioncode:OMNH" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "specificepithet:rhodopeplus genus:Dendropsophus institutioncode:OMNH" ; Times: 1
+	Query: "genus:Adelphobates specificepithet:quinquevittatus" ; Times: 1
+	Query: "specificepithet:petasatus genus:Triprion" ; Times: 1
+	Query: "specificepithet:brachyops genus:Pleurodema" ; Times: 1
+	Query: "specificepithet:grandis genus:Platypelis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:laevis genus:Occidozyga institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:hypochondrialis genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:pleurostigma genus:Kalophrynus" ; Times: 1
+	Query: "genus:Platymantis specificepithet:mimulus" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:blairi genus:Rana" ; Times: 1
+	Query: "specificepithet:bolivianus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:otilophus genus:Polypedates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:mystacalis genus:Pseudopaludicola institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:bicalcaratus genus:Guibemantis" ; Times: 1
+	Query: "Sanguirana luzonensis institutioncode:OMNH" ; Times: 4
+	Query: "specificepithet:boylii genus:Rana institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:leucomelas genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:puma genus:Smilisca" ; Times: 1
+	Query: "specificepithet:knudseni genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:perezi genus:Edalorhina institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:betsileanus genus:Mantidactylus" ; Times: 1
+	Query: "specificepithet:pictus genus:Nyctixalus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:cabrerai genus:Osteocephalus" ; Times: 1
+	Query: "specificepithet:aurora genus:Rana institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:tuberculatus genus:Hyperolius" ; Times: 1
+	Query: "OMNH 45806" ; Times: 2
+	Query: "OMNH 45804" ; Times: 1
+	Query: "amphibia Georgia echols" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:ventrimaculata genus:Chiasmocleis" ; Times: 1
+	Query: "luteiventris Rana" ; Times: 1
+	Query: "specificepithet:tetradactyla genus:Stumpffia institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:avivoca genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:pentadactylus genus:Leptodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:multifasciatus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:rathbuni genus:eurycea stateprovince:&#34;texas&#34; AND (NOT MVZ NOT UTA NOT TCWC NOT TNHC NOT AMNH NOT USNM) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amietophrynus regularis" ; Times: 1
+	Query: "specificepithet:bicolor genus:Elachistocleis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:nebulosus genus:Scinax" ; Times: 1
+	Query: "specificepithet:petasatus genus:Triprion institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:greshoffii genus:Cryptothylax" ; Times: 1
+	Query: "specificepithet:hurterii genus:Scaphiopus" ; Times: 1
+	Query: "specificepithet:geographicus genus:Hypsiboas institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:crucifer genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:gryllus genus:Eleutherodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:adspersus genus:Hyperolius institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Rhinophrynus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:nidicola genus:Allobates" ; Times: 1
+	Query: "specificepithet:boesemani genus:Scinax" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lithodytes institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:centralis genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:crassipes genus:Conraua" ; Times: 1
+	Query: "specificepithet:knudseni genus:Leptodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:cranwelli genus:Ceratophrys" ; Times: 1
+	Query: "specificepithet:rivicola genus:Gephyromantis" ; Times: 1
+	Query: "specificepithet:vaillantii genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:centralis genus:Phyllomedusa institutioncode:OMNH" ; Times: 1
+	Query: "34953" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Dendropsophus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:gracilis genus:Cardioglossa institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:rubicundulus genus:Dendropsophus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:magnus genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:brunneus genus:Allobates" ; Times: 1
+	Query: "Lysapsus limellum" ; Times: 1
+	Query: "specificepithet:corticale genus:Theloderma" ; Times: 1
+	Query: "OMNH 45812" ; Times: 1
+	Query: "specificepithet:caeruleodactylus genus:Allobates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:lugubris genus:Phyllobates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Hoplobatrachus" ; Times: 1
+	Query: "specificepithet:lepus genus:Amnirana" ; Times: 1
+	Query: "specificepithet:leptodactyloides genus:Leptodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "specificepithet:stepheni genus:Anomaloglossus" ; Times: 1
+	Query: "specificepithet:staufferi genus:Scinax institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:chrysoscelis genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:batesi genus:Astylosternus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 2
+	Query: "specificepithet:sila genus:Smilisca institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:tuberculatus genus:Hyperolius institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:boulengeri genus:Epipedobates" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Osteopilus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:cuvieri genus:Physalaemus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:acuminatus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:femoralis genus:Allobates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:alboguttatus genus:Osteocephalus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:mascareniensis genus:Ptychadena institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:vittigera genus:Fejervarya institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus" ; Times: 1
+	Query: "specificepithet:leprieurii genus:Osteocephalus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:eiselti genus:Gephyromantis institutioncode:OMNH" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;PIMA&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:diadematus genus:Pristimantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:calcaratus genus:Hypsiboas institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:Aglyptodactylus" ; Times: 1
+	Query: "specificepithet:variolosus genus:Hypopachus" ; Times: 1
+	Query: "specificepithet:ruber genus:Scinax" ; Times: 1
+	Query: "specificepithet:leucomaculatus genus:Gephyromantis" ; Times: 1
+	Query: "specificepithet:cancrivora genus:Fejervarya" ; Times: 1
+	Query: "specificepithet:bicolor genus:Elachistocleis" ; Times: 1
+	Query: "specificepithet:lugubris genus:Phyllobates" ; Times: 1
+	Query: "specificepithet:ridens genus:Pristimantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:fenestratus genus:Pristimantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:geayi genus:Ctenophryne" ; Times: 1
+	Query: "specificepithet:lugubris genus:Mantidactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:pictus genus:Nyctixalus" ; Times: 1
+	Query: "specificepithet:magnus genus:Limnonectes institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:appendiculatus genus:Rhacophorus" ; Times: 1
+	Query: "specificepithet:scutatus genus:Hemiphractus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:evansi genus:Stefania institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:orientalis genus:Bombina institutioncode:OMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinella marina " ; Times: 1
+	Query: "specificepithet:leali genus:Dendropsophus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:vittigera genus:Fejervarya" ; Times: 1
+	Query: "specificepithet:ocellata genus:Plethodontohyla" ; Times: 1
+	Query: "specificepithet:varius genus:Atelopus" ; Times: 1
+	Query: "vntype:specimen specificepithet:rathbuni genus:eurycea AND (NOT alcohol NOT ethanol NOT alcoholic) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;texas&#34; AND (quadridigitata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:roseifemoralis genus:Stumpffia institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Hoplobatrachus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:squirella genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:millsoni genus:Leptopelis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:leucomelas genus:Dendrobates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:altamazonicus genus:Pristimantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:grandis genus:Platypelis" ; Times: 1
+	Query: "specificepithet:pleurostigma genus:Kalophrynus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:nidicola genus:Allobates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:tarsius genus:Phyllomedusa" ; Times: 1
+	Query: "country:Ecuador scientificname:Pristimantis altamazonicus " ; Times: 1
+	Query: "specificepithet:otilophus genus:Polypedates" ; Times: 1
+	Query: "specificepithet:macrocephalus genus:Limnonectes institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:hosii genus:Pedostibes" ; Times: 1
+	Query: "specificepithet:calcarifer genus:Cruziohyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:miyatai genus:Dendropsophus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:areolatus family:ranidae" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea" ; Times: 1
+	Query: "specificepithet:andreae genus:Adenomera" ; Times: 1
+	Query: "specificepithet:garbei genus:Scinax institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:fuscus genus:Leptodactylus institutioncode:OMNH" ; Times: 1
+	Query: "Rana draytonii 2015" ; Times: 6
+	Query: "specificepithet:rhodopeplus genus:Dendropsophus" ; Times: 1
+	Query: "Rana draytonii 2017" ; Times: 6
+	Query: "specificepithet:multifasciatus genus:Hypsiboas institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:grandidieri genus:Mantidactylus" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:brunneus genus:Allobates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:perezi genus:Edalorhina" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:rugulosus genus:Hoplobatrachus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:varius genus:Atelopus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:labyrinthicus genus:Leptodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:hosii genus:Pedostibes institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:guttulatus genus:Hyperolius institutioncode:OMNH" ; Times: 1
+	Query: "Ctenophryne geayi institutioncode:OMNH" ; Times: 2
+	Query: "specificepithet:luteiventris genus:Rana institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:longirostris genus:Leptodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:bocagei genus:Hyloxalus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:ockendeni genus:Pristimantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:cascadae genus:Rana institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:surdus genus:Philautus" ; Times: 1
+	Query: "specificepithet:leytensis genus:Limnonectes" ; Times: 1
+	Query: "Ambystoma maculata" ; Times: 1
+	Query: "specificepithet:albolabris genus:Amnirana" ; Times: 1
+	Query: "specificepithet:ornata genus:Ceratophrys" ; Times: 1
+	Query: "specificepithet:boliviana genus:Hamptophryne institutioncode:OMNH" ; Times: 1
+	Query: "genus:Heterixalus specificepithet:madagascariensis" ; Times: 1
+	Query: "specificepithet:tarsius genus:Phyllomedusa institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:triseriata genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:augusti genus:Craugastor" ; Times: 1
+	Query: "specificepithet:luteus genus:Gephyromantis" ; Times: 1
+	Query: "specificepithet:grandidieri genus:Mantidactylus institutioncode:OMNH" ; Times: 1
+	Query: "Rana draytonii 0" ; Times: 1
+	Query: "specificepithet:gryllus genus:Acris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:mystacalis genus:Pseudopaludicola" ; Times: 1
+	Query: "specificepithet:centralis genus:Physalaemus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Gastrophryne institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:guttulatus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:corrugatus genus:Platymantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:ruthveni genus:Allophryne institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:OMNH" ; Times: 1
+	Query: "Blommersia wittei institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:japonicus genus:Bufo institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:albopunctata genus:Chiasmocleis" ; Times: 1
+	Query: "specificepithet:avivoca genus:Hyla" ; Times: 1
+	Query: "specificepithet:diastema genus:Diasporus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:miyatai genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:peruvianus genus:Pristimantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:tetra genus:Platypelis" ; Times: 1
+	Query: "specificepithet:tomopterna genus:Phyllomedusa institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:africanus genus:Phrynobatrachus" ; Times: 1
+	Query: "specificepithet:ocularis genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:altamazonicus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:lanciformis genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:tetradactyla genus:Stumpffia" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:vaillantii" ; Times: 1
+	Query: "specificepithet:wittei genus:Blommersia institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:lutzi genus:Adenomera" ; Times: 1
+	Query: "specificepithet:femoralis genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:bolivianus genus:Leptodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:conspicillatus genus:Pristimantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:luteus genus:Gephyromantis institutioncode:OMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1584 download events in this period)
+Total number of records downloaded: 2521
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-09 ; Times: 3
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Newton&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "plethodon dunni" ; Times: 1
+	Query: "Dendropsophus leucophyllatus" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "specificepithet:cinereus genus:plethodon country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "genus:Spea" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;texas&#34; AND (quadridigitata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:areolatus family:ranidae" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;texas&#34; AND (NOT quadridigitata) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "rana draytonii" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "&#34;bd&#34; order:anura" ; Times: 1
+
+
+End of report.
