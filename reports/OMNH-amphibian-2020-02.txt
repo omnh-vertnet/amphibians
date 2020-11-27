@@ -1,0 +1,200 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 161
+Number of records retrieved in searches: 1384
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 132
+	Country: Denmark ; Times: 4
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 3
+	Date: 2020-02-05 ; Times: 4
+	Date: 2020-02-02 ; Times: 14
+	Date: 2020-02-03 ; Times: 17
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-01 ; Times: 3
+	Date: 2020-02-20 ; Times: 10
+	Date: 2020-02-21 ; Times: 5
+	Date: 2020-02-22 ; Times: 15
+	Date: 2020-02-23 ; Times: 3
+	Date: 2020-02-08 ; Times: 6
+	Date: 2020-02-09 ; Times: 4
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-11 ; Times: 21
+	Date: 2020-02-10 ; Times: 5
+	Date: 2020-02-13 ; Times: 6
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 8
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 4
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-06 ; Times: 4
+	Date: 2020-02-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "class:amphibia fieldnumber:17233" ; Times: 2
+	Query: "Pulchrana similis OMNH" ; Times: 2
+	Query: "Ctenophryne geayi" ; Times: 1
+	Query: "platymantis luzonensis" ; Times: 1
+	Query: "Rhinella ocellata institutioncode:OMNH" ; Times: 1
+	Query: "eurycea braggi" ; Times: 1
+	Query: "Kaloula picta OMNH" ; Times: 1
+	Query: "kaloula conjuncta omnh" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Pleurodema brachyops" ; Times: 3
+	Query: "genus:Eurycea specificepithet:spelaea" ; Times: 1
+	Query: "organ pipe class:amphibia county:&#34;pima&#34;" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 2
+	Query: "14846" ; Times: 1
+	Query: "Pseudacris clarkii texas cameron" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 4
+	Query: "specificepithet:yavapaiensis stateprovince:&#34;Arizona&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "Allophryne ruthveni" ; Times: 2
+	Query: "26637" ; Times: 1
+	Query: "Michigan genus:Necturus" ; Times: 4
+	Query: "anaxyrus fowler" ; Times: 2
+	Query: "california toad" ; Times: 1
+	Query: "genus:ambystoma lifestage:larvae" ; Times: 1
+	Query: "craugastor augusti" ; Times: 5
+	Query: "20991" ; Times: 1
+	Query: "hyla chrysoscelis texas" ; Times: 1
+	Query: "genus:Dicamptodon lifestage:larvae" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "rhacophorus pardalis OMNH" ; Times: 1
+	Query: "15-1013-9" ; Times: 2
+	Query: "Limnonectes leytensis OMNH" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "Lithobates catesbeiana mappable:1" ; Times: 1
+	Query: "fmnh preparations:fluid" ; Times: 1
+	Query: "mcz ceratophrys" ; Times: 1
+	Query: "Rana draytonii 15" ; Times: 3
+	Query: "Rana draytonii 16" ; Times: 3
+	Query: "rhacophorus OMNH" ; Times: 2
+	Query: "Rana draytonii 10" ; Times: 3
+	Query: "Rana draytonii 12" ; Times: 3
+	Query: "16240" ; Times: 1
+	Query: "Pulchrana OMNH" ; Times: 2
+	Query: "LSU 5803" ; Times: 1
+	Query: "Theloderma Corticale" ; Times: 2
+	Query: "Cruziohyla calcarifer institutioncode:OMNH" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "streckeri" ; Times: 1
+	Query: "Rana draytonii 11" ; Times: 3
+	Query: "genus:lithobates stateprovince:&#34;Illinois&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "class:amphibia fieldnumber:16401" ; Times: 2
+	Query: "rhacophorus bimaculatus OMNH" ; Times: 1
+	Query: "american black bear" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "Darien class:Amphibia (Darien)" ; Times: 1
+	Query: "Rana draytonii 2015" ; Times: 7
+	Query: "Rana draytonii 2017" ; Times: 7
+	Query: "39229" ; Times: 1
+	Query: "fieldnumber:DBS 329" ; Times: 4
+	Query: "eurycea spelaea" ; Times: 2
+	Query: "genus:Chiasmocleis specificepithet:albopunctata" ; Times: 1
+	Query: "genus:Rhinella specificepithet:granulosa" ; Times: 1
+	Query: "class:amphibia fieldnumber:17200" ; Times: 2
+	Query: "Ctenophryne geayi institutioncode:OMNH" ; Times: 1
+	Query: "class:amphibia fieldnumber:16580" ; Times: 2
+	Query: "lithobates blairi Tipton" ; Times: 1
+	Query: "Hyla chrysoscelis texas" ; Times: 1
+	Query: "OMNH 34083" ; Times: 3
+	Query: "Kaloula OMNH" ; Times: 1
+	Query: "Rana draytonii 2009" ; Times: 7
+	Query: "platymantis luzonensis omnh" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "kaloula omnh" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larvae" ; Times: 2
+	Query: "19835" ; Times: 1
+	Query: "Adelphobates castaneoticus" ; Times: 2
+	Query: "Rana draytonii 24" ; Times: 3
+	Query: "specificepithet:yavapaiensis stateprovince:&#34;Arizona&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Sanguirana luzonensis institutioncode:OMNH" ; Times: 2
+	Query: "Mushroom" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana county:&#34;Mariposa&#34;" ; Times: 1
+	Query: "OMNH 34545" ; Times: 1
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "17179" ; Times: 1
+	Query: "Rana draytonii 9" ; Times: 3
+	Query: "Rana draytonii 8" ; Times: 3
+	Query: "Rana draytonii 1" ; Times: 1
+	Query: "Rana draytonii 0" ; Times: 1
+	Query: "Phyllomedusa vaillantii" ; Times: 3
+	Query: "eurycea tynerensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1023 download events in this period)
+Total number of records downloaded: 2016
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Guyana ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-11 ; Times: 4
+	Date: 2020-02-10 ; Times: 3
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-21 ; Times: 3
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Rana locality:Yosemite" ; Times: 1
+	Query: "Bolitoglossa" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larvae" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "genus:Rana county:&#34;Mariposa&#34;" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "specificepithet:yavapaiensis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana county:&#34;Mariposa&#34;" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;Spea intermontana&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 2
+	Query: "genus:Ambystoma lifestage:larva" ; Times: 1
+	Query: "centrolenidae" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "class:amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "class:Amphibia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;minas gerais&#34;" ; Times: 1
+
+
+End of report.
