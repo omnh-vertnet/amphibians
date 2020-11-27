@@ -1,0 +1,150 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 108
+Number of records retrieved in searches: 3104
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 58
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 33
+	Country: Ecuador ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-30 ; Times: 5
+	Date: 2019-12-24 ; Times: 55
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 4
+	Date: 2019-12-23 ; Times: 3
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-29 ; Times: 6
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-07 ; Times: 6
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-13 ; Times: 3
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-17 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Elachistocleis specificepithet:bicolor" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:exsul class:amphibia stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2010" ; Times: 1
+	Query: "Lithobates sylvaticus OMNH" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "specificepithet:festae genus:Rhinella" ; Times: 2
+	Query: "specificepithet:granulosa genus:Rhinella" ; Times: 2
+	Query: "specificepithet:valliceps genus:Incilius" ; Times: 2
+	Query: "specificepithet:japonicus genus:Bufo" ; Times: 2
+	Query: "genus:Amazophrynella hastissue:1" ; Times: 1
+	Query: "genus:Proceratophrys hastissue:1" ; Times: 1
+	Query: "recordedby:Leonard Scott" ; Times: 1
+	Query: "11270." ; Times: 1
+	Query: "specificepithet:hemiophrys genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:castaneotica genus:Rhinella" ; Times: 2
+	Query: "specificepithet:peltocephala genus:Peltophryne" ; Times: 2
+	Query: "specificepithet:cognatus genus:Anaxyrus" ; Times: 2
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 3
+	Query: "genus:Dermatonotus specificepithet:muelleri" ; Times: 1
+	Query: "acris crepitans omnh" ; Times: 1
+	Query: "specificepithet:boulengeri genus:Bufotes" ; Times: 2
+	Query: "Dendropsophus riveroi" ; Times: 1
+	Query: "bumblebee" ; Times: 1
+	Query: "genus:Colostethus hastissue:1" ; Times: 1
+	Query: "specificepithet:areolatus genus:Lithobates class:Amphibia" ; Times: 1
+	Query: "specificepithet:canorus genus:Anaxyrus" ; Times: 2
+	Query: "OMNH 34545" ; Times: 1
+	Query: "warfel amphibian" ; Times: 1
+	Query: "specificepithet:merianae genus:Rhinella" ; Times: 2
+	Query: "specificepithet:ocellata genus:Rhinella" ; Times: 2
+	Query: "specificepithet:varius genus:Atelopus" ; Times: 1
+	Query: "18569" ; Times: 1
+	Query: "anaxyrus americanus omnh" ; Times: 2
+	Query: "specificepithet:martyi genus:Rhinella" ; Times: 2
+	Query: "specificepithet:debilis genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:schneideri genus:Rhinella" ; Times: 2
+	Query: "Scinax nebulosus" ; Times: 1
+	Query: "Hyla cinerea Oklahoma OMNH" ; Times: 1
+	Query: "OMNH 27933" ; Times: 4
+	Query: "genus:Telmatobius specificepithet:culeus" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "OMNH 39600" ; Times: 1
+	Query: "specificepithet:guttatus genus:Rhaebo" ; Times: 2
+	Query: "Bufo americanus OMNH" ; Times: 1
+	Query: "genus:Phyzelaphryne hastissue:1" ; Times: 1
+	Query: "SP 3030" ; Times: 1
+	Query: "specificepithet:alvarius genus:Incilius" ; Times: 2
+	Query: "specificepithet:coniferus genus:Incilius" ; Times: 2
+	Query: "specificepithet:quercicus genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:auriculatus genus:desmognathus stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "specificepithet:areolatus class:Amphibia" ; Times: 1
+	Query: "specificepithet:cristatus genus:Incilius" ; Times: 2
+	Query: "Bufo americanus oklahoma" ; Times: 2
+	Query: "specificepithet:exsul genus:Anaxyrus" ; Times: 2
+	Query: "OMNH 36220" ; Times: 2
+	Query: "24368" ; Times: 1
+	Query: "scientificname:Pristimantis acuminatus " ; Times: 1
+	Query: "Hyla cinerea OMNH" ; Times: 2
+	Query: "bufo fowleri omnh" ; Times: 1
+	Query: "specificepithet:margaritifera genus:Rhinella" ; Times: 2
+	Query: "RIVEROI" ; Times: 1
+	Query: "OMNH 34544" ; Times: 1
+	Query: "specificepithet:hoogmoedi genus:Atelopus" ; Times: 2
+	Query: "specificepithet:speciosus genus:Anaxyrus" ; Times: 2
+	Query: "33534" ; Times: 1
+	Query: "37484" ; Times: 2
+	Query: "specificepithet:melanochlorus genus:Incilius" ; Times: 2
+	Query: "Ambystoma altamirani" ; Times: 1
+	Query: "specificepithet:spinulosa genus:Rhinella" ; Times: 2
+	Query: "specificepithet:Sylvaticus genus:Lithobates stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:nebulifer genus:Incilius" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 596 download events in this period)
+Total number of records downloaded: 3818
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: South Korea ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-05 ; Times: 6
+	Date: 2019-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:areolatus genus:Lithobates class:Amphibia" ; Times: 1
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "nyctixalus pictus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla country:&#34;México&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:narisovalis genus:Thorius country:&#34;México&#34;" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+
+
+End of report.
