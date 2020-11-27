@@ -1,0 +1,172 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 1663
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 95
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Nicaragua ; Times: 6
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 13
+	Date: 2019-11-18 ; Times: 3
+	Date: 2019-11-30 ; Times: 2
+	Date: 2019-11-14 ; Times: 12
+	Date: 2019-11-17 ; Times: 1
+	Date: 2019-11-16 ; Times: 8
+	Date: 2019-11-11 ; Times: 4
+	Date: 2019-11-12 ; Times: 4
+	Date: 2019-11-08 ; Times: 4
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 16
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-20 ; Times: 3
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-24 ; Times: 9
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-09 ; Times: 3
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-07 ; Times: 9
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-05 ; Times: 18
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mike Scott" ; Times: 1
+	Query: "genus:Lithobates specificepithet:catesbeiana" ; Times: 16
+	Query: "Ranitomeya ventrimaculata" ; Times: 3
+	Query: "specificepithet:punctatus genus:anaxyrus county:&#34;beckham&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Gastrophryne county:&#34;roger mills&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "16051" ; Times: 1
+	Query: "genus:scaphiopus county:&#34;harmon&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "16053" ; Times: 1
+	Query: "genus:Gastrophryne county:&#34;beckham&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "COI" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "17921" ; Times: 1
+	Query: "Hypsiboas crepitans" ; Times: 2
+	Query: "45295" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "specificepithet:speciosus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "20757" ; Times: 1
+	Query: "specificepithet:woodhousii genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "specificepithet:debilis genus:anaxyrus county:&#34;harmon&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:speciosus genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Rana draytonii 2015" ; Times: 6
+	Query: "ranitomeya" ; Times: 1
+	Query: "Rana draytonii 2017" ; Times: 6
+	Query: "Stumpffia tetradactyla mappable:1" ; Times: 1
+	Query: "24573" ; Times: 1
+	Query: "specificepithet:debilis stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Gastrophryne county:&#34;ellis&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "Lemos Espinal" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 2
+	Query: "Gastrophryne carolinensis OMNH" ; Times: 1
+	Query: "Acris blanchardi OMNH" ; Times: 1
+	Query: "31201" ; Times: 1
+	Query: "Dendropsophus parviceps institutioncode:OMNH" ; Times: 1
+	Query: "Cruziohyla calcarifer" ; Times: 4
+	Query: "21851" ; Times: 1
+	Query: "Rhinella granulosa" ; Times: 1
+	Query: "LEPTODACTYLUS MYSTACEUS" ; Times: 1
+	Query: "Lithobates areolatus" ; Times: 1
+	Query: "specificepithet:punctatus genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "specificepithet:valliceps genus:incilius stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "19720" ; Times: 2
+	Query: "35676" ; Times: 1
+	Query: "Pseudacris fouquettei OMNH" ; Times: 3
+	Query: "genus:scaphiopus county:&#34;childress&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:cascadae genus:rana county:&#34;Klickitat&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "craugastor augusti mexico" ; Times: 1
+	Query: "10565" ; Times: 1
+	Query: "genus:Hypsiboas hastissue:1" ; Times: 1
+	Query: "Telmatobius culeus" ; Times: 1
+	Query: "specificepithet:debilis genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "20605" ; Times: 1
+	Query: "genus:Pseudacris county:&#34;beckham&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "18906" ; Times: 1
+	Query: "43136" ; Times: 1
+	Query: "specificepithet:debilis genus:anaxyrus county:&#34;beckham&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "craugastor rugulosus" ; Times: 1
+	Query: "specificepithet:nana genus:Eurycea stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "smilisca puma" ; Times: 2
+	Query: "hyla arborea" ; Times: 1
+	Query: "Ambystoma jeffersonianum stateprovince:&#34;connecticut&#34;" ; Times: 2
+	Query: "Adelphobates castaneoticus" ; Times: 1
+	Query: "Rana draytonii 2009" ; Times: 6
+	Query: "specificepithet:arenicolor genus:Hyla stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2010" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "10918" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 2
+	Query: "18905" ; Times: 2
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 1
+	Query: "Hyla cinerea OMNH" ; Times: 2
+	Query: "genus:siren year &lt;= 1955" ; Times: 2
+	Query: "Leptodactylus macrosternum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1367 download events in this period)
+Total number of records downloaded: 711
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 14
+	Country: Ecuador ; Times: 1
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-18 ; Times: 5
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-14 ; Times: 7
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:speciosus genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "LEPTODACTYLUS MYSTACEUS" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Eurycea neotenes" ; Times: 1
+	Query: "specificepithet:vehiculum genus:Plethodon" ; Times: 1
+	Query: "specificepithet:debilis stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma hastissue:1" ; Times: 1
+	Query: "specificepithet:nebulifer genus:incilius stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Hypsiboas crepitans" ; Times: 1
+	Query: "genus:pedostibes" ; Times: 1
+	Query: "specificepithet:valliceps genus:incilius stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:speciosus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 2
+	Query: "Staurois natator" ; Times: 1
+	Query: "specificepithet:woodhousii genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:debilis genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+
+
+End of report.
