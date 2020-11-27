@@ -1,0 +1,164 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 730
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 2
+	Country: United States ; Times: 56
+	Country: Ireland ; Times: 7
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 3
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-26 ; Times: 3
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 6
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 5
+	Date: 2020-05-10 ; Times: 4
+	Date: 2020-05-11 ; Times: 9
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-16 ; Times: 3
+	Date: 2020-05-17 ; Times: 3
+	Date: 2020-05-09 ; Times: 4
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-07 ; Times: 11
+	Date: 2020-05-06 ; Times: 8
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "16883" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "24183" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "KUNHM 18001" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "genus:conraua hastissue:1" ; Times: 1
+	Query: "OMNH Lithobates palustris" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "Echinotriton" ; Times: 1
+	Query: "MCZ R-9570" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "Trachycephalus typhonius" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "OMNH Lithobates sylvaticus" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34;" ; Times: 7
+	Query: "class:amphibia county:&#34;Mono&#34; year &gt;= 1981 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:rosaceum genus:ambystoma" ; Times: 2
+	Query: "country:Ecuador scientificname:Osteocephalus taurinus " ; Times: 1
+	Query: "atelopus hoogmoedi" ; Times: 1
+	Query: "spea bombifrons oklahoma" ; Times: 1
+	Query: "OMNH Pseudacris maculata" ; Times: 1
+	Query: "OMNH Pseudacris crucifer" ; Times: 2
+	Query: "country:Ecuador scientificname:Allobates trilineatus " ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 2
+	Query: "Osteocephalus alboguttatus" ; Times: 4
+	Query: "specificepithet:cognatus genus:Anaxyrus stateprovince:&#34;south dakota&#34; year &gt;= 1945 year &lt;= 2020" ; Times: 1
+	Query: "Pseudacris crucifer OMNH OKLAHOMA" ; Times: 2
+	Query: "class:amphibia county:&#34;mono&#34; year &gt;= 1981 year &lt;= 1999" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "genus:Rana specificepithet:boylii stateprovince:california year&lt;=1970" ; Times: 1
+	Query: "OMNH 36026" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 2
+	Query: "Strabomantis sulcatus" ; Times: 1
+	Query: "class:amphibia county:&#34;Mono&#34; year &gt;= 1901 year &lt;= 1950" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:streckeri" ; Times: 1
+	Query: "Platymantis mimulus" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "class:amphibia county:&#34;Mono&#34; year &gt;= 1931 year &lt;= 1950" ; Times: 1
+	Query: "genus:Craugastor specificepithet:augusti" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "Pseudacris crucifer OMNH Oklahoma" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "Eleutherodactylus marnockii" ; Times: 2
+	Query: "Pseudacris TNHC" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "Platymantis luzonensis" ; Times: 1
+	Query: "genus:Rana specificepithet:boylii stateprovince:california year&lt;=1980" ; Times: 1
+	Query: "akers" ; Times: 1
+	Query: "INPA 4717" ; Times: 2
+	Query: "OMNH Rana sylvatica" ; Times: 1
+	Query: "acris crepitans mississippi" ; Times: 1
+	Query: "44752" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1106 download events in this period)
+Total number of records downloaded: 6469
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Singapore ; Times: 9
+	Country: Unknown ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-05 ; Times: 15
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "EURYCEA LONGICAUDA" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "Tylototriton" ; Times: 1
+	Query: "Echinotriton" ; Times: 3
+	Query: "gymnophiona" ; Times: 1
+	Query: "Pachytriton" ; Times: 1
+	Query: "specificepithet:rosaceum genus:ambystoma" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Limnonectes" ; Times: 1
+	Query: "PLETHODON MISSISSIPPI" ; Times: 1
+	Query: "amphibia oregon" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Cynops" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 3
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Notophthalmus viridescens 2011" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "Cynops cyanurus" ; Times: 1
+
+
+End of report.
