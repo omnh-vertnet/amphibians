@@ -1,0 +1,199 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 166
+Number of records retrieved in searches: 1903
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 41
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 28
+	Country: Denmark ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 69
+	Country: Ecuador ; Times: 6
+	Country: Peru ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Paraguay ; Times: 10
+	Country: South Korea ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-19 ; Times: 6
+	Date: 2020-10-08 ; Times: 27
+	Date: 2020-10-12 ; Times: 5
+	Date: 2020-10-13 ; Times: 9
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-16 ; Times: 20
+	Date: 2020-10-31 ; Times: 2
+	Date: 2020-10-14 ; Times: 3
+	Date: 2020-10-15 ; Times: 8
+	Date: 2020-10-03 ; Times: 3
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-21 ; Times: 3
+	Date: 2020-10-20 ; Times: 7
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-26 ; Times: 2
+	Date: 2020-10-25 ; Times: 3
+	Date: 2020-10-24 ; Times: 2
+	Date: 2020-10-01 ; Times: 3
+	Date: 2020-10-30 ; Times: 31
+	Date: 2020-10-29 ; Times: 4
+	Date: 2020-10-28 ; Times: 6
+	Date: 2020-10-05 ; Times: 5
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-06 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "North American black bear" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereus genus:plethodon stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "Incilius cristatus" ; Times: 7
+	Query: "Anaxyrus americanus OMNH Cleveland County" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "20347" ; Times: 1
+	Query: "Atelopus hoogmoedi" ; Times: 1
+	Query: "44356" ; Times: 2
+	Query: "genus:Sanguirana specificepithet:tipanan" ; Times: 1
+	Query: "41813" ; Times: 2
+	Query: "North American Black Bear" ; Times: 3
+	Query: "Siphonops paulensis" ; Times: 1
+	Query: "33842" ; Times: 1
+	Query: "Dermatonotus muelleri" ; Times: 1
+	Query: "specificepithet:cinereus genus:plethodon stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "43096" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 10
+	Query: "MCZ 10117" ; Times: 1
+	Query: "Lysapsus limellum" ; Times: 1
+	Query: "Trachycephalus typhonius" ; Times: 2
+	Query: "Ambystoma talpoideum stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 4
+	Query: "Pseudopaludicola ameghini" ; Times: 2
+	Query: "genus:acris stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "INCILIUS cristatus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Allophrynidae" ; Times: 2
+	Query: "OMNH Pseudacris crucifer" ; Times: 1
+	Query: "Gephyromantis" ; Times: 1
+	Query: "OMNH 33466" ; Times: 1
+	Query: "specificepithet:blairi genus:Lithobates stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Osteocephalus specificepithet:leprieurii" ; Times: 1
+	Query: "47132" ; Times: 1
+	Query: "genus:Osteocephalus specificepithet:cabrerai" ; Times: 17
+	Query: "Pseudacris crucifer OMNH" ; Times: 2
+	Query: "aitken minnesota" ; Times: 1
+	Query: "OMNH Pseudacris crucifer Oklahoma" ; Times: 1
+	Query: "Lithobates sevosus" ; Times: 2
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "locality:Fern Bank Springs" ; Times: 1
+	Query: "locality:indian cave" ; Times: 1
+	Query: "north american black bear" ; Times: 1
+	Query: "Chiasmocleis albopunctata" ; Times: 4
+	Query: "Anaxyrus canorus Fresno County" ; Times: 1
+	Query: "33841" ; Times: 2
+	Query: "43733" ; Times: 1
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34; year &gt;= 1951 year &lt;= 2020" ; Times: 1
+	Query: "Hemiphractus scutatus" ; Times: 1
+	Query: "genus:spea year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "pseudacris feriarum omnh" ; Times: 1
+	Query: "cryptobranchidae stateprovince:&#34;Pennsylvania&#34;" ; Times: 10
+	Query: "Ceratophrys cranwelli" ; Times: 1
+	Query: "specificepithet:cinerea stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Incilius specificepithet:cristatus" ; Times: 2
+	Query: "specificepithet:sequoyah genus:Plethodon" ; Times: 1
+	Query: "genus:Plethodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rhinella ocellata" ; Times: 20
+	Query: "genus:Incilius stateprovince:&#34;Sinaloa&#34;" ; Times: 1
+	Query: "25126" ; Times: 1
+	Query: "OMNH 15347" ; Times: 2
+	Query: "OMNH 4921" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:vaillantii" ; Times: 1
+	Query: "Anaxyrus americanus OMNH" ; Times: 2
+	Query: "OMNH 36220" ; Times: 3
+	Query: "16252" ; Times: 1
+	Query: "genus:Incilius stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Incilius stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "22692" ; Times: 1
+	Query: "genus:Gephyromantis" ; Times: 1
+	Query: "20582" ; Times: 1
+	Query: "oklahoma amphibian 258" ; Times: 2
+	Query: "42953" ; Times: 1
+	Query: "acris crepitans maryland" ; Times: 1
+	Query: "Anaxyrus canorus Inyo County" ; Times: 1
+	Query: "order:anura distance(location,geopoint(32.68200357712817,-89.55322265625))&lt;100000" ; Times: 1
+	Query: "genus:Echinotriton specificepithet:andersoni" ; Times: 1
+	Query: "class:Amphibia county:&#34;cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ambystoma altamirani" ; Times: 1
+	Query: "specificepithet:valliceps genus:incilius stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "&#34;Pseudopaludicola ameghini&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1521 download events in this period)
+Total number of records downloaded: 3901
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 4
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-28 ; Times: 3
+	Date: 2020-10-30 ; Times: 5
+	Date: 2020-10-06 ; Times: 4
+	Date: 2020-10-05 ; Times: 6
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:caudata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "&#34;Plethodon cinereus&#34; AND &#34;michigan&#34;" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Rhinella ocellata" ; Times: 1
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipiens genus:Lithobates" ; Times: 1
+	Query: "Centrolenidae" ; Times: 1
+	Query: "INCILIUS cristatus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "genus:Osteocephalus specificepithet:cabrerai" ; Times: 1
+	Query: "class:Amphibia county:&#34;nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:anura stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "hyla femoralis" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "order:Gymnophiona hastissue:1" ; Times: 4
+	Query: "class:Amphibia county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Caudata hastissue:1" ; Times: 1
+	Query: "specificepithet:sequoyah genus:Plethodon" ; Times: 1
+	Query: "order:caudata distance(location,geopoint(32.68200357712817,-89.55322265625))&lt;161220" ; Times: 2
+	Query: "spea bombifrons" ; Times: 1
+	Query: "order:anura distance(location,geopoint(32.68200357712817,-89.55322265625))&lt;161220" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 2
+	Query: "genus:gastrophryne stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Adenomera" ; Times: 1
+	Query: "class:Amphibia county:&#34;cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Scaphiopus holbrookii" ; Times: 1
+	Query: "Hylarana" ; Times: 1
+	Query: "&#34;Pseudopaludicola ameghini&#34;" ; Times: 1
+
+
+End of report.
