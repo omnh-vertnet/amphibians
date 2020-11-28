@@ -1,0 +1,149 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 1306
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 63
+	Country: Ireland ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Peru ; Times: 4
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-17 ; Times: 5
+	Date: 2020-08-10 ; Times: 8
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-19 ; Times: 4
+	Date: 2020-08-18 ; Times: 3
+	Date: 2020-08-27 ; Times: 9
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-03 ; Times: 13
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-28 ; Times: 6
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-08 ; Times: 3
+	Date: 2020-08-09 ; Times: 2
+	Date: 2020-08-24 ; Times: 5
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-20 ; Times: 3
+	Date: 2020-08-21 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura locality:Galveston county:&#34;Galveston&#34;" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Oklahoma&#34;" ; Times: 7
+	Query: "OMNH 9428" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "genus:eurycea locality:fern bank" ; Times: 1
+	Query: "country:Ecuador scientificname:Epipedobates boulengeri " ; Times: 1
+	Query: "35359" ; Times: 1
+	Query: "35358" ; Times: 1
+	Query: "tarsius" ; Times: 1
+	Query: "OMNH 39340" ; Times: 2
+	Query: "american black bear" ; Times: 1
+	Query: "OMNH Bufo woodhousii" ; Times: 1
+	Query: "genus:Strabomantis specificepithet:sulcatus" ; Times: 1
+	Query: "locality:fern bank spring" ; Times: 1
+	Query: "33873" ; Times: 1
+	Query: "fieldnumber:11940" ; Times: 1
+	Query: "OMNH Scaphiopus couchii" ; Times: 2
+	Query: "specificepithet:punctatus family:Bufonidae county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 2
+	Query: "class:amphibia county:&#34;shelby&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "B. marmoratus" ; Times: 1
+	Query: "lithobates grylio" ; Times: 1
+	Query: "KUNHM 10367" ; Times: 1
+	Query: "31594" ; Times: 1
+	Query: "specificepithet:woodhousii family:Bufonidae county:&#34;Gillespie&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Hypopachus county:&#34;Duval&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "20858" ; Times: 1
+	Query: "family:Bufonidae county:&#34;Anderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:montanus genus:Pseudotriton stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "OMNH Anaxyrus cognatus" ; Times: 2
+	Query: "KUNHM 7379" ; Times: 1
+	Query: "25785" ; Times: 1
+	Query: "specificepithet:talpoideum genus:Ambystoma stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Cynops pyrrhogaster" ; Times: 1
+	Query: "fieldnumber:6205" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "KUNHM 13784" ; Times: 1
+	Query: "OMNH bufo cognatus" ; Times: 1
+	Query: "genus:eurycea locality:comal spring" ; Times: 1
+	Query: "omnh 15012" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "acris blanchardi newton county" ; Times: 1
+	Query: "SAM 600" ; Times: 1
+	Query: "American Black Bear" ; Times: 1
+	Query: "specificepithet:canorus county:&#34;inyo&#34;" ; Times: 2
+	Query: "20284" ; Times: 1
+	Query: "Smilisca Cameron" ; Times: 5
+	Query: "OMNH 31497" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "specificepithet:auriculatus genus:desmognathus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Texas specificepithet:chrysoscelis genus:Hyla" ; Times: 1
+	Query: "SAM 598" ; Times: 1
+	Query: "genus:Eurycea stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Hypopachus county:&#34;Jim Wells&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "Acris blanchardi Crawford Kansas" ; Times: 1
+	Query: "Anaxyrus americanus OMNH" ; Times: 2
+	Query: "47505" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:bombifrons order:Anura county:&#34;Lubbock&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Texas specificepithet:clamitans genus:Lithobates" ; Times: 1
+	Query: "Bufo japonicus" ; Times: 1
+	Query: "11295" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 756 download events in this period)
+Total number of records downloaded: 257
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-17 ; Times: 3
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-20 ; Times: 3
+	Date: 2020-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "genus:Batrachoseps" ; Times: 1
+	Query: "Texas specificepithet:chrysoscelis genus:Hyla" ; Times: 1
+	Query: "Batrachoseps major" ; Times: 1
+	Query: "rana draytonii" ; Times: 1
+	Query: "genus:scaphiopus hastissue:1" ; Times: 1
+	Query: "Texas specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "class:Amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Texas specificepithet:clamitans genus:Lithobates" ; Times: 1
+	Query: "Batrachoseps" ; Times: 2
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+
+
+End of report.
