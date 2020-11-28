@@ -1,0 +1,242 @@
+Report for Institution Code OMNH, Resource amphibian
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 246
+Number of records retrieved in searches: 9039
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Ireland ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Philippines ; Times: 10
+	Country: United States ; Times: 191
+	Country: French Guiana ; Times: 1
+	Country: Peru ; Times: 6
+	Country: Germany ; Times: 3
+	Country: Ecuador ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 6
+	Date: 2020-07-08 ; Times: 4
+	Date: 2020-07-21 ; Times: 7
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-24 ; Times: 13
+	Date: 2020-07-03 ; Times: 12
+	Date: 2020-07-02 ; Times: 10
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-07 ; Times: 8
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-29 ; Times: 52
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-11 ; Times: 4
+	Date: 2020-07-30 ; Times: 61
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-14 ; Times: 26
+	Date: 2020-07-17 ; Times: 9
+	Date: 2020-07-22 ; Times: 11
+	Date: 2020-07-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Craugastor augusti OMNH" ; Times: 1
+	Query: "fieldnumber:2451" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 2
+	Query: "genus:Rhinella specificepithet:castaneotica" ; Times: 1
+	Query: "vntype:specimen specificepithet:marina genus:Rhinella family:Bufonidae order:anura class:Amphibia stateprovince:&#34;Camarines Norte&#34; country:&#34;Philippines&#34; institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hyla avivoca OMNH" ; Times: 1
+	Query: "KUNHM 10409" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "specificepithet:erythraea genus:Hylarana family:Ranidae country:&#34;Philippines&#34;" ; Times: 2
+	Query: "catalognumber:41875.0 institutioncode:OMNH" ; Times: 1
+	Query: "11163" ; Times: 1
+	Query: "Plethodon mississippi" ; Times: 2
+	Query: "specificepithet:marina genus:Rhinella family:Bufonidae order:anura class:Amphibia stateprovince:&#34;Camarines Norte&#34; country:&#34;Philippines&#34; institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 3
+	Query: "Rhacophorus schlegelii" ; Times: 1
+	Query: "Eurycea spelaea" ; Times: 2
+	Query: "32839" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "vntype:specimen specificepithet:erythraea genus:Hylarana family:Ranidae order:anura class:Amphibia country:&#34;Philippines&#34; institutioncode:OMNH basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "order:Gymnophiona AND (NOT Geotrypetes NOT Schistometopum NOT Herpele) year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "Eurycea tynerensis" ; Times: 2
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 1
+	Query: "19863" ; Times: 1
+	Query: "catalognumber:43445.0 institutioncode:OMNH" ; Times: 2
+	Query: "Thorius narisovalis" ; Times: 2
+	Query: "Anaxyrus americanus OMNH" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "23686" ; Times: 2
+	Query: "Pseudacris maculata OMNH" ; Times: 1
+	Query: "county:&#34;St. Lawrence&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Desmognathus brimleyorum" ; Times: 5
+	Query: "Eurycea cirrigera" ; Times: 2
+	Query: "Acris blanchardi Crawford Kansas" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "KUNHM 32425" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 3
+	Query: "Plethodon fourchensis" ; Times: 2
+	Query: "catalognumber:43819.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:42945.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:42736.0 institutioncode:OMNH" ; Times: 2
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Kendall&#34;" ; Times: 4
+	Query: "Drew R. Davis" ; Times: 2
+	Query: "lithobates clamitans OMNH" ; Times: 4
+	Query: "Plethodon kentucki" ; Times: 2
+	Query: "genus:Ambystoma institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:neotenes genus:Eurycea county:&#34;Hays&#34;" ; Times: 5
+	Query: "Hyla avivoca" ; Times: 1
+	Query: "Batrachoseps major" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus hastissue:1" ; Times: 1
+	Query: "OMNH 1460" ; Times: 1
+	Query: "family:Bufonidae county:&#34;Anderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:areolatus class:Amphibia country:&#34;United States&#34;" ; Times: 8
+	Query: "specificepithet:marina genus:Rhinella family:Bufonidae class:Amphibia stateprovince:&#34;Camarines Norte&#34; country:&#34;Philippines&#34; institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:nana genus:Eurycea county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Leptodactylus labyrinthicus" ; Times: 1
+	Query: "Pelophylax nigromaculatus" ; Times: 1
+	Query: "OMNH 35918" ; Times: 1
+	Query: "OMNH 35919" ; Times: 5
+	Query: "19966" ; Times: 1
+	Query: "OMNH 1592" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 2
+	Query: "specificepithet:areolatus class:Amphibia" ; Times: 1
+	Query: "catalognumber:42676.0 institutioncode:OMNH" ; Times: 2
+	Query: "genus:Physalaemus specificepithet:cuvieri" ; Times: 1
+	Query: "Warfel Colorado" ; Times: 4
+	Query: "OMNH 3839" ; Times: 1
+	Query: "warfel" ; Times: 2
+	Query: "Plethodon dunni" ; Times: 2
+	Query: "catalognumber:42946.0 institutioncode:OMNH" ; Times: 2
+	Query: "OMNH 4025" ; Times: 3
+	Query: "MCZ 8976" ; Times: 1
+	Query: "MCZ 8975" ; Times: 2
+	Query: "Pseudotriton montanus" ; Times: 2
+	Query: "Bufo americanus OMNH" ; Times: 1
+	Query: "genus:pipa hastissue:1" ; Times: 1
+	Query: "Eurycea rathbuni" ; Times: 2
+	Query: "OMNH 27948" ; Times: 1
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "OMNH 27947" ; Times: 3
+	Query: "specificepithet:marina genus:Rhinella family:Bufonidae class:Amphibia stateprovince:&#34;Camarines Norte&#34; country:&#34;Philippines&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eurycea multiplicata" ; Times: 3
+	Query: "genus:Eurycea county:&#34;Kendall&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:cognatus genus:Anaxyrus stateprovince:&#34;south dakota&#34; year &gt;= 1945 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:melanochlorus family:bufonidae" ; Times: 1
+	Query: "catalognumber:42939.0 institutioncode:OMNH" ; Times: 2
+	Query: "Plethodon dorsalis" ; Times: 2
+	Query: "19825" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 2
+	Query: "Pseudotriton ruber" ; Times: 3
+	Query: "Craugastor augusti" ; Times: 2
+	Query: "specificepithet:nana genus:Eurycea county:&#34;Hays&#34;" ; Times: 1
+	Query: "Plethodon albagula" ; Times: 3
+	Query: "Plethodon richmondi" ; Times: 3
+	Query: "Plethodon kiamichi" ; Times: 2
+	Query: "Eurycea neotenes" ; Times: 1
+	Query: "catalognumber:43944.0 institutioncode:OMNH" ; Times: 2
+	Query: "OMNH 2328" ; Times: 1
+	Query: "Anaxyrus hemiophrys" ; Times: 1
+	Query: "MSB Lithobates pipiens New Mexico" ; Times: 1
+	Query: "catalognumber:43943.0 institutioncode:OMNH" ; Times: 2
+	Query: "Gyrinophilus porphyriticus" ; Times: 2
+	Query: "genus:Heterixalus specificepithet:madagascariensis" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "Mantella" ; Times: 1
+	Query: "FMNH 1886" ; Times: 1
+	Query: "OMNH 35923" ; Times: 2
+	Query: "Plethodon neomexicanus" ; Times: 2
+	Query: "21252" ; Times: 1
+	Query: "Eurycea tridentifera" ; Times: 2
+	Query: "catalognumber:43444.0 institutioncode:OMNH" ; Times: 2
+	Query: "23630" ; Times: 1
+	Query: "catalognumber:42942.0 institutioncode:OMNH" ; Times: 2
+	Query: "MSB Lithobates pipiens" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "OMNH Anaxyrus fowleri" ; Times: 1
+	Query: "OMNH 42054" ; Times: 1
+	Query: "42543" ; Times: 1
+	Query: "vntype:specimen specificepithet:marina genus:Rhinella family:Bufonidae order:anura class:Amphibia stateprovince:&#34;Camarines Norte&#34; country:&#34;Philippines&#34; institutioncode:OMNH basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "warfel colorado" ; Times: 6
+	Query: "Pseudacris crucifer OMNH" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "Bolitoglossa mombachoensis" ; Times: 3
+	Query: "46505" ; Times: 1
+	Query: "Elachistocleis" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Eurycea nana" ; Times: 2
+	Query: "Plethodon vehiculum" ; Times: 2
+	Query: "27947" ; Times: 2
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "21099" ; Times: 1
+	Query: "Plethodon serratus" ; Times: 3
+	Query: "Lithobates sphenocephalus OMNH" ; Times: 4
+	Query: "Eurycea quadridigitata" ; Times: 2
+	Query: "MCZ 10113" ; Times: 1
+	Query: "Plethodon sequoyah" ; Times: 2
+	Query: "class:amphibia county:&#34;Sublette&#34;" ; Times: 1
+	Query: "specificepithet:nana genus:Eurycea" ; Times: 3
+	Query: "31031" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 940 download events in this period)
+Total number of records downloaded: 4312
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-31 ; Times: 7
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:coniferus family:bufonidae" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "Elachistocleis" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:nebulifer family:bufonidae" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "class:Amphibia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus auriculatus&#34;" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "specificepithet:melanochlorus family:bufonidae" ; Times: 1
+	Query: "specificepithet:marmoratus genus:desmognathus" ; Times: 1
+	Query: "class:Amphibia &#34;Peltophryne peltocephala&#34;" ; Times: 1
+	Query: "specificepithet:cristatus family:bufonidae" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "genus:Incilius" ; Times: 1
+	Query: "specificepithet:andersoni family:Salamandridae" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+
+
+End of report.
